@@ -33,7 +33,7 @@ production stylesheet in assets/built/screen.css
 :root {
 
     /* Colours */
-    --color-green: #a4d037;
+    --color-green: #449444;
     --color-yellow: #fecd35;
     --color-red: #f05230;
     --color-darkgrey: #15171A;
@@ -42,6 +42,7 @@ production stylesheet in assets/built/screen.css
     --color-wash: #edf0f6;
     --color-darkmode: #151719;
     --color-orange: #EC552C;
+    --color-black: #000;
 
     /*
     An accent color is also set by Ghost itself in
@@ -82,7 +83,6 @@ production stylesheet in assets/built/screen.css
 /* Centered content container blocks */
 .inner {
     margin: 0 auto;
-    max-width: 1200px;
     width: 100%;
 }
 
@@ -109,15 +109,14 @@ production stylesheet in assets/built/screen.css
 
 .site-header-content {
     position: relative;
-    z-index: 100;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 6vw 3vw;
+    z-index: 100;
     min-height: 200px;
     max-height: 340px;
     text-align: left;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
 .site-title {
@@ -173,7 +172,7 @@ production stylesheet in assets/built/screen.css
 
 .gh-head {
     padding: 1vmin 4vmin;
-    font-size: 1.6rem;
+    font-size: 2.8rem;
     line-height: 1.3em;
     color: black;
     background: var(--color-wash);
@@ -197,8 +196,8 @@ production stylesheet in assets/built/screen.css
 
 .gh-head-brand {
     display: flex;
-    align-items: center;
-    height: 40px;
+    align-items: flex-start;
+    height: 100%;
     max-width: 200px;
     text-align: center;
     word-break: break-all;
@@ -206,7 +205,6 @@ production stylesheet in assets/built/screen.css
 
 .gh-head-logo {
     display: block;
-    padding: 10px 0;
     font-weight: 700;
     font-size: 2rem;
     line-height: 1.2em;
@@ -214,7 +212,7 @@ production stylesheet in assets/built/screen.css
 }
 
 .gh-head-logo img {
-    max-height: 26px;
+    height: 5vh;
 }
 
 
@@ -223,8 +221,8 @@ production stylesheet in assets/built/screen.css
 
 .gh-head-menu {
     display: flex;
-    align-items: center;
-    font-weight: 500;
+    align-items: flex-start;
+    font-weight: 600;
 }
 
 .gh-head-menu .nav {
@@ -237,14 +235,17 @@ production stylesheet in assets/built/screen.css
 }
 
 .gh-head-menu .nav li {
-    margin: 0 2.5vmin 0 0;
-    padding: 0;
+    margin: 0 1.5vmin 0 0;
+    border-radius: 0.25rem;
+    background: var(--color-green);
+    padding: 0.225rem 1rem 0 1rem;
+    line-height: 1em;
 }
 
 .gh-head-menu .nav a {
     display: inline-block;
-    padding: 5px 0;
-    opacity: 0.8
+    color: var(--color-wash);
+    line-height: 1.25em;
 }
 
 .gh-head-menu .nav a:hover {
@@ -305,14 +306,12 @@ production stylesheet in assets/built/screen.css
 
 a.gh-head-button {
     display: block;
-    padding: 8px 15px;
-    color: var(--button-text-color, var(--color-darkgrey));
-    font-weight: 500;
-    letter-spacing: -0.015em;
-    font-size: 1.5rem;
-    line-height: 1em;
+    padding: 0.225rem 1rem 0 1rem;
+    color: var(--button-text-color, var(--color-black));
+    font-weight: 600;
     background: var(--button-bg-color, var(--color-wash));
-    border-radius: 30px;
+    border-radius: 0.25rem;
+    line-height: 1.25em;
 }
 
 
