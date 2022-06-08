@@ -137,6 +137,13 @@ production stylesheet in assets/built/screen.css
     height: 9vmax;
 }
 
+.bg-none{
+    background: transparent!important;
+}
+
+/* 3. Special Templates*/
+/* ---------------------------------------------------------- */
+
 /* 4. Site Header
 /* ---------------------------------------------------------- */
 
@@ -161,7 +168,6 @@ production stylesheet in assets/built/screen.css
     position: relative;
     display: flex;
     z-index: 100;
-    min-height: 200px;
     text-align: left;
     flex-direction: row;
     justify-content: space-between;
@@ -191,8 +197,10 @@ production stylesheet in assets/built/screen.css
     line-height: 0.9em;
     text-transform: capitalize;
     will-change: width;
-    font-family: "PP Mori", sans-serif;
-    font-feature-settings: 'ss03' on, 'ss04' on, 'ss05' on;
+    font-family: "PP Mori","Helvetica Neue","Helvetica", sans-serif;
+    -moz-font-feature-settings: 'ss03' on, 'ss04' on;
+    -webkit-font-feature-settings: 'ss03' on, 'ss04' on;
+    font-feature-settings: 'ss03' on, 'ss04' on;
 }
 /*
 #spin {
@@ -235,6 +243,9 @@ production stylesheet in assets/built/screen.css
     .site-header-content .inner {
         flex-direction: column;
     }
+    span > br{
+        display: block!important;
+    }
 }
 
 /* 4.1 Home header
@@ -247,7 +258,7 @@ production stylesheet in assets/built/screen.css
 }
 
 .site-header-content {
-    padding: 16vmin 0 0vmin;
+    padding: 4vmin 0 0vmin;
     font-size: 2.5rem;
     font-weight: 400;
     color: var(--color-wash);
@@ -538,6 +549,11 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     .home-template #gh-head.has-cover .gh-head-brand {
         justify-content: flex-end;
     }
+    @media (max-width: 900px){
+        .home-template #gh-head.has-cover .gh-head-brand {
+            justify-content: space-between;
+        }
+    }
     #gh-head .gh-head-menu {
         align-self: center;
         display: flex;
@@ -600,11 +616,7 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
 }
 
 .home-template .gh-head.has-cover {
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    z-index: 2000;
+
 }
 
 .home-template .gh-head.has-cover {
@@ -616,10 +628,9 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
 }
 
 .home-template .gh-head.has-cover .gh-head-logo {
-    display: none;
+
 }
 .home-template .gh-head.has-cover .gh-head-menu {
-    margin-left: -2.5vmin;
 }
 
 
@@ -665,7 +676,7 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
 @media (max-width: 900px) {
     .post-card{
         min-height: auto;
-        height: 20vw;
+        height: 25vw;
         background-color: var(--color-orange);
         border-radius: 0.5rem;
     }
@@ -674,7 +685,7 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     }
     .post-card-image-link{
         display: flex!important;
-        flex-direction: column;
+        flex-direction: row-reverse;
         align-items: end;
     }
 }
@@ -983,12 +994,18 @@ make sure this only happens on large viewports / desktop-ish devices.
 /* ---------------------------------------------------------- */
 
 .article {
-    padding: 8vmin 0;
+    padding: 4vmin 0;
     word-break: break-word;
 }
 
+.article-info{
+    display: grid;
+    grid-column-end: 5!important;
+
+}
+
 .article-header {
-    padding: 0 0 6vmin 0;
+    padding: 0 0 0 0;
 }
 
 .article-tag {
@@ -1026,7 +1043,7 @@ make sure this only happens on large viewports / desktop-ish devices.
 .gh-canvas .article-image {
     grid-column: wide-start / wide-end;
     width: 100%;
-    margin: 6vmin 0 0;
+    margin: 0;
 }
 
 .image-full .article-image {
@@ -1061,31 +1078,30 @@ use it for applying any other styles. */
 
 .gh-canvas {
     display: grid;
-    grid-template-columns:
-        [full-start]
-        minmax(4vmin, auto)
-            [wide-start]
-            minmax(auto, 240px)
-                [main-start]
-                    min(720px, calc(100% - 8vw))
-                [main-end]
-            minmax(auto, 240px)
-            [wide-end]
-        minmax(4vmin, auto)
-        [full-end]
-    ;
+    grid-column-gap: 4vmin;
+    grid-template-columns: .27fr 1fr 1fr 1fr 0.19fr;
 }
-
 .gh-canvas > * {
-    grid-column: main-start / main-end;
+    grid-column-start: 2;
+    grid-column-end: 4;
 }
-
+@media (max-width: 900px){
+    .gh-canvas{
+        grid-template-columns: .1fr 1fr 1fr 1fr .1fr;
+    }
+    .gh-canvas > * {
+        grid-column-start: 2;
+        grid-column-end: 5;
+    }
+}
 .kg-width-wide {
-    grid-column: wide-start / wide-end;
+    grid-column-start: 1;
+    grid-column-end: 5;
 }
 
 .kg-width-full {
-    grid-column: full-start / full-end;
+    grid-column-start: 1;
+    grid-column-end: 6;
 }
 
 .kg-width-full img {
@@ -1102,7 +1118,7 @@ headings, text, images and lists. We deal with cards lower down. */
 
 /* Default vertical spacing */
 .gh-content > * + * {
-    margin-top: 4vmin;
+    margin-top: 2vmin;
     margin-bottom: 0;
 }
 
@@ -1153,7 +1169,7 @@ is the very first element in the post content */
     font-family: var(--font-serif);
     font-weight: 400;
     font-size: 2.1rem;
-    line-height: 1.6em;
+    line-height: 1.3em;
 }
 
 .gh-content .kg-callout-card .kg-callout-text,

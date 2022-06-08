@@ -52,7 +52,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/anikolov/cl1c3uy3k001s14s9lr4p3kvp
 
 // adding geojson by fetch
 // of course you can use jquery, axios etc.
-fetch("../data/containers.json")
+fetch("https://raw.githubusercontent.com/lagerregalec/Einetonne/main/assets/data/containers.json")
     .then(function (response) {
         return response.json();
     })

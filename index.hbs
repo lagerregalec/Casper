@@ -5,25 +5,8 @@ into the {body} of the default.hbs template --}}
 {{#match @custom.publication_cover_style "!=" "None"}}
     <div class="site-header-content{{#match @custom.publication_cover_style "Large"}} large{{/match}}">
         <div class="inner">
-            {{#if @site.cover_image}}
-                {{!-- This is a responsive image, it loads different sizes depending on device
-                https://medium.freecodecamp.org/a-guide-to-responsive-images-with-ready-to-use-templates-c400bd65c433 --}}
-                <img class="site-header-cover"
-                    srcset="{{img_url @site.cover_image size="s"}} 300w,
-                            {{img_url @site.cover_image size="m"}} 600w,
-                            {{img_url @site.cover_image size="l"}} 1000w,
-                            {{img_url @site.cover_image size="xl"}} 2000w"
-                    sizes="100vw"
-                    src="{{img_url @site.cover_image size="xl"}}"
-                    alt=""
-                />
-            {{/if}}
             <h1 class="site-title">
-                {{#if @site.logo}}
-                    {{@site.title}}
-                {{else}}
-                    {{@site.title}}
-                {{/if}}
+                Mehr als <span><br style="display: none"></span> eine Tonne
             </h1>
             <h1 class="site-title swapper">
                     <span class="changing-text"></span>
@@ -90,7 +73,7 @@ into the {body} of the default.hbs template --}}
     <div class="outer">
 
         <div class="inner post-feed">
-            <div class="post-card-large">
+            <div class="post-card bg-none">
                 <div class= "image-container">
                 <img class="post-card-image" src="assets/svg/Biogas-left.svg">
                 </div>
@@ -101,7 +84,7 @@ into the {body} of the default.hbs template --}}
                 </p>
                 </div>
             </div>
-            <div class="post-card-large">
+            <div class="post-card bg-none">
                 <div class= "image-container">
                 <img class="post-card-image" src="assets/svg/Plant-left.svg">
                 </div>
@@ -110,7 +93,7 @@ into the {body} of the default.hbs template --}}
                 <p>Mit der Entsorgung im Grüncontainer sorgst du dafür, dass wertvolle Komposterde und Flüssigdünger für die Landwirtschaft produziert werden kann.</p>
                 </div>
             </div>
-            <div class="post-card-large">
+            <div class="post-card bg-none">
                 <div class= "image-container">
                 <img class="post-card-image" src="assets/svg/CO2-left.svg">
                 </div>
