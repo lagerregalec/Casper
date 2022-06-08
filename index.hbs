@@ -36,7 +36,7 @@ into the {body} of the default.hbs template --}}
 <main id="site-main" class="site-main outer">
     <div class="inner posts">
 
-        <div class="post-feed{{#match @custom.feed_layout "List"}} list{{/match}}">
+        <div class="post-feed{{#match @custom.feed_layout "List"}} list{{/match}} home">
             {{#foreach posts}}
 
                 {{!-- The tag below includes the markup for each post - partials/post-card.hbs --}}
@@ -90,7 +90,7 @@ into the {body} of the default.hbs template --}}
     <div class="outer">
 
         <div class="inner post-feed">
-            <div class="post-card">
+            <div class="post-card-large">
                 <div class= "image-container">
                 <img class="post-card-image" src="assets/svg/Biogas-left.svg">
                 </div>
@@ -101,7 +101,7 @@ into the {body} of the default.hbs template --}}
                 </p>
                 </div>
             </div>
-            <div class="post-card">
+            <div class="post-card-large">
                 <div class= "image-container">
                 <img class="post-card-image" src="assets/svg/Plant-left.svg">
                 </div>
@@ -110,7 +110,7 @@ into the {body} of the default.hbs template --}}
                 <p>Mit der Entsorgung im Grüncontainer sorgst du dafür, dass wertvolle Komposterde und Flüssigdünger für die Landwirtschaft produziert werden kann.</p>
                 </div>
             </div>
-            <div class="post-card">
+            <div class="post-card-large">
                 <div class= "image-container">
                 <img class="post-card-image" src="assets/svg/CO2-left.svg">
                 </div>

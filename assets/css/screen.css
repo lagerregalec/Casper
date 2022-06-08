@@ -227,7 +227,7 @@ production stylesheet in assets/built/screen.css
     opacity: 0.8;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     .site-description {
         max-width: 80vmin;
         font-size: 1.8rem;
@@ -593,7 +593,7 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     #gh-head .gh-head-menu {
         font-size: 6vmin;
     }
@@ -662,9 +662,20 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     margin-bottom: 0.4rem;
 }
 
-@media (max-width: 700px) {
-    .post-card {
+@media (max-width: 900px) {
+    .post-card{
         min-height: auto;
+        height: 20vw;
+        background-color: var(--color-orange);
+        border-radius: 0.5rem;
+    }
+    .post-card-image{
+        width: 30%!important;
+    }
+    .post-card-image-link{
+        display: flex!important;
+        flex-direction: column;
+        align-items: end;
     }
 }
 
@@ -962,10 +973,6 @@ make sure this only happens on large viewports / desktop-ish devices.
 
 
 @media (max-width: 500px) {
-    .post-card-title {
-        font-size: 1.9rem;
-    }
-
     .post-card-excerpt {
         font-size: 1.6rem;
     }
@@ -1037,7 +1044,7 @@ make sure this only happens on large viewports / desktop-ish devices.
     width: 100%;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     .article-excerpt {
         font-size: 1.8rem;
     }
@@ -1546,7 +1553,7 @@ iframe.instagram-media + script + :not([id]) {
     color: var(--color-darkgrey);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     .footer-cta h2 {
         font-size: 2.65rem;
     }

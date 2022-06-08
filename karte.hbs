@@ -1,16 +1,106 @@
-<head>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-          integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-          crossorigin=""/>
-    <link rel="stylesheet" href="main.css">
-</head>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
 
-<main id="site-main" class="site-main outer">
-    <div id="map"></div>
-</main>
+<div id="map" class="kg-card kg-image-card kg-width-full" style="height:300px"></div>
+<script>
 
-<script type="text/javascript" src="assets/js/map.js">
+    /* eslint-disable no-undef */
+    /**
+     * geoJSON simple
+     */
+// Variable for GeoJSON data
+    let addedGeoJSON;
+
+    // config map
+    let config = {
+        minZoom: 1,
+        maxZoom: 18,
+        maxBoundsViscosity: 0.9,
+    };
+
+    // calling map
+    const map = L.map("map", config);
+
+    // marker icon big
+    var bigIcon = L.icon({
+        iconUrl: 'https://www.woll.io/content/images/2021/12/icon-512w-1.png',
+        iconSize: [100, 100],
+        iconAnchor: [50, 50],
+        popupAnchor: [0, -5],
+        /*shadowUrl: 'my-icon-shadow.png',
+        shadowSize: [68, 95],
+        shadowAnchor: [22, 94]*/
+    });
+
+    // marker icon small
+    var smallIcon = L.icon({
+        iconUrl: 'https://www.woll.io/content/images/2021/12/icon-512w-1.png',
+        iconSize: [10, 10],
+        iconAnchor: [5, 5],
+        popupAnchor: [0, -5],
+        /*shadowUrl: 'my-icon-shadow.png',
+        shadowSize: [68, 95],
+        shadowAnchor: [22, 94]*/
+    });
+
+    // PopUp
+    var popup = L.popup();
+
+    // Used to load and display tile layers on the map
+    // Most tile servers require attribution, which you can set under Layer
+    //https://api.mapbox.com/styles/v1/anikolov/cl1c3uy3k001s14s9lr4p3kvp/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW5pa29sb3YiLCJhIjoiY2wxYzNraGFjMDF2ODNnbjFwN2FoenI2eiJ9.v5X2PYctWmudRI_xdVGb8w
+
+    L.tileLayer("https://api.mapbox.com/styles/v1/anikolov/cl1c3uy3k001s14s9lr4p3kvp/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW5pa29sb3YiLCJhIjoiY2wxYzNraGFjMDF2ODNnbjFwN2FoenI2eiJ9.v5X2PYctWmudRI_xdVGb8w", {
+        attribution:
+                '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    }).addTo(map);
+
+
+    // adding geojson by fetch
+    // of course you can use jquery, axios etc.
+    fetch("/content/files/2022/06/containers.json")
+            .then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                // use geoJSON
+                addedGeoJSON = L.geoJSON(data, {
+
+                    pointToLayer: function(geoJsonPoint, latlng){
+                        return L.marker(latlng,{
+                            icon: smallIcon
+                        });
+                    },
+
+                    onEachFeature: function(feature, layer){
+                        if(feature.geometry.type ==='Point'){
+                            layer.bindPopup(feature.properties.gefaess_art);
+                        }
+                    }
+
+                }).addTo(map);
+                // console.log(data);
+                //Dynamically adjust Viewport properties based on geoJSON data
+                map.fitBounds(addedGeoJSON.getBounds(),{
+                    padding:[20,20]
+                });
+                map.setMinZoom(map.getZoom());
+                map.setMaxBounds(addedGeoJSON.getBounds().pad(0.1));
+                map.on('zoomend', onZoomend);
+            });
+
+    function onZoomend(feature, layer) {
+        var currentZoom = map.getZoom();
+        if (currentZoom >= 18) {
+            addedGeoJSON.eachLayer(function(layer) {
+                layer.setIcon(bigIcon);
+            });
+        }
+        else{
+            addedGeoJSON.eachLayer(function(layer) {
+                layer.setIcon(smallIcon);
+            });
+        }
+    }
+
 </script>
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-        crossorigin=""></script>
