@@ -11,7 +11,6 @@ into the {body} tag of the default.hbs template --}}
     <article class="article {{post_class}} {{#match @custom.post_image_width "Full"}}image-full{{else match @custom.post_image_width "=" "Small"}}image-small{{/match}}">
 
         <header class="article-header gh-canvas">
-
             {{!-- {{#if primary_tag}}
             <section class="article-tag">
                 <a href="{{primary_tag.url}}">{{primary_tag.name}}</a>
@@ -20,9 +19,9 @@ into the {body} tag of the default.hbs template --}}
             <div class="article-info">
                 <div class="item-info">
                     <h1 class="article-title">{{title}}</h1>
-                    {{#if custom_excerpt}}
+                    {{!--{{#if custom_excerpt}}
                         <p class="article-excerpt">{{custom_excerpt}}</p>
-                    {{/if}}
+                    {{/if}} --}}
                 </div>
                 {{!--<div class="article-byline">
                     <section class="article-byline-content">
