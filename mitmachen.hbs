@@ -6,16 +6,16 @@ into the {body} of the default.hbs template --}}
     <div class="site-header-content{{#match @custom.publication_cover_style "Large"}} large{{/match}}">
         <div class="inner">
             {{#if @site.cover_image}}
-                {{!-- This is a responsive image, it loads different sizes depending on device
-                https://medium.freecodecamp.org/a-guide-to-responsive-images-with-ready-to-use-templates-c400bd65c433 --}}
+            {{!-- This is a responsive image, it loads different sizes depending on device
+            https://medium.freecodecamp.org/a-guide-to-responsive-images-with-ready-to-use-templates-c400bd65c433 --}}
                 <img class="site-header-cover"
-                    srcset="{{img_url @site.cover_image size="s"}} 300w,
+                     srcset="{{img_url @site.cover_image size="s"}} 300w,
                             {{img_url @site.cover_image size="m"}} 600w,
                             {{img_url @site.cover_image size="l"}} 1000w,
                             {{img_url @site.cover_image size="xl"}} 2000w"
-                    sizes="100vw"
-                    src="{{img_url @site.cover_image size="xl"}}"
-                    alt=""
+                     sizes="100vw"
+                     src="{{img_url @site.cover_image size="xl"}}"
+                     alt=""
                 />
             {{/if}}
             <h1 class="site-title">
@@ -26,7 +26,7 @@ into the {body} of the default.hbs template --}}
                 {{/if}}
             </h1>
             <h1 class="site-title swapper">
-                    <span class="changing-text"></span>
+                <span class="changing-text"></span>
             </h1>
         </div>
     </div>
@@ -39,14 +39,11 @@ into the {body} of the default.hbs template --}}
         <div class="post-feed{{#match @custom.feed_layout "List"}} list{{/match}}">
             {{#foreach posts}}
 
-                {{!-- The tag below includes the markup for each post - partials/post-card.hbs --}}
+            {{!-- The tag below includes the markup for each post - partials/post-card.hbs --}}
                 {{> "post-card"}}
 
             {{/foreach}}
         </div>
-        <img class="img-overflow-right"
-             src="assets/svg/Smoke.svg"
-        />
     </div>
     <div class="inner post-feed headline">
         <img class="img-overflow-left"
@@ -62,15 +59,15 @@ into the {body} of the default.hbs template --}}
         <div class="inner post-feed">
             <div class="post-card">
                 <h3>Mieter*in</h3>
-                <img class="post-card-image" src="assets/svg/Mieter-2.svg">
+                <img class="post-card-image" src="assets/svg/Mieter-l.svg">
             </div>
             <div class="post-card">
                 <h3>Eigentümer*in</h3>
-                <img class="post-card-image" src="assets/svg/Verwaltung-2.svg">
+                <img class="post-card-image" src="assets/svg/Verwaltung-l.svg">
             </div>
             <div class="post-card">
                 <h3>ZH Bioabfall-Abo</h3>
-                <img class="post-card-image" src="assets/svg/Grüncontainer-2.svg">
+                <img class="post-card-image" src="assets/svg/Grüncontainer-l.svg">
             </div>
             <img class="img-overflow-right"
                  src="assets/svg/Smile.svg"
@@ -92,31 +89,31 @@ into the {body} of the default.hbs template --}}
         <div class="inner post-feed">
             <div class="post-card">
                 <div class= "image-container">
-                <img class="post-card-image" src="assets/svg/Biogas-left.svg">
+                    <img class="post-card-image" src="assets/svg/Biogas-left.svg">
                 </div>
                 <div class= "text-container">
-                <h3>Biogas</h3>
-                <p>Mit deinen Grünabfällen wird Biogas produziert.
-                    <br>Übrigens: Die Biogas-Produktion freut sich über deine Küchenabfälle! ;)
-                </p>
+                    <h3>Biogas</h3>
+                    <p>Mit deinen Grünabfällen wird Biogas produziert.
+                        <br>Übrigens: Die Biogas-Produktion freut sich über deine Küchenabfälle! ;)
+                    </p>
                 </div>
             </div>
             <div class="post-card">
                 <div class= "image-container">
-                <img class="post-card-image" src="assets/svg/Plant-left.svg">
+                    <img class="post-card-image" src="assets/svg/Plant-left.svg">
                 </div>
                 <div class= "text-container">
-                <h3>Erde & Dünger</h3>
-                <p>Mit der Entsorgung im Grüncontainer sorgst du dafür, dass wertvolle Komposterde und Flüssigdünger für die Landwirtschaft produziert werden kann.</p>
+                    <h3>Erde & Dünger</h3>
+                    <p>Mit der Entsorgung im Grüncontainer sorgst du dafür, dass wertvolle Komposterde und Flüssigdünger für die Landwirtschaft produziert werden kann.</p>
                 </div>
             </div>
             <div class="post-card">
                 <div class= "image-container">
-                <img class="post-card-image" src="assets/svg/CO2-left.svg">
+                    <img class="post-card-image" src="assets/svg/CO2-left.svg">
                 </div>
                 <div class= "text-container">
-                <h3>Emissionen senken</h3>
-                <p>Was im Grüncontainer landet, muss nicht verbrannt werden und du sorgst für eine verbesserte Energiebilanz der Verbrennungsanlagen.</p>
+                    <h3>Emissionen senken</h3>
+                    <p>Was im Grüncontainer landet, muss nicht verbrannt werden und du sorgst für eine verbesserte Energiebilanz der Verbrennungsanlagen.</p>
                 </div>
             </div>
 
@@ -127,6 +124,3 @@ into the {body} of the default.hbs template --}}
         </div>
     </div>
 </main>
-
-<script type="text/javascript" src="assets/js/text-changer.js">
-</script>

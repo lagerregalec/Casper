@@ -1,0 +1,5734 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "erz.container_oeg_p",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5569620952, 47.406003891 ]
+			},
+			"properties" : {
+				"objid" : "1",
+				"standort_id" : 64414,
+				"plz" : 8050,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Funkackerstrasse 16",
+				"gefaess_typ" : "Bioabfall",
+				"gefaess_art" : "Container 140lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.479783107, 47.3891368045 ]
+			},
+			"properties" : {
+				"objid" : "2",
+				"standort_id" : 40418,
+				"plz" : 8048,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Kelchweg 18",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 240lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5451678277, 47.3866496979 ]
+			},
+			"properties" : {
+				"objid" : "3",
+				"standort_id" : 27835,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Scheuchzerstrasse 70",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.543583869, 47.38339819 ]
+			},
+			"properties" : {
+				"objid" : "4",
+				"standort_id" : 27548,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Sonneggstrasse 88",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5442002492, 47.3858306005 ]
+			},
+			"properties" : {
+				"objid" : "5",
+				"standort_id" : 30870,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Ottikerstrasse 23",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5527027653, 47.3835542031 ]
+			},
+			"properties" : {
+				"objid" : "6",
+				"standort_id" : 27725,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bionstrasse 3",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5485109369, 47.3847848748 ]
+			},
+			"properties" : {
+				"objid" : "7",
+				"standort_id" : 46484,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Rigiplatz 1",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5485961306, 47.3869166204 ]
+			},
+			"properties" : {
+				"objid" : "8",
+				"standort_id" : 29238,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Frohburgstrasse 20a",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4812002381, 47.3851361768 ]
+			},
+			"properties" : {
+				"objid" : "9",
+				"standort_id" : 516,
+				"plz" : 8048,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Zwischenbächen 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4901921812, 47.3853951504 ]
+			},
+			"properties" : {
+				"objid" : "10",
+				"standort_id" : 16676,
+				"plz" : 8048,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Luggwegstrasse 65",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 800lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4901921812, 47.3853951504 ]
+			},
+			"properties" : {
+				"objid" : "11",
+				"standort_id" : 7948,
+				"plz" : 8048,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Luggwegstrasse 65",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 800lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4810134455, 47.3907878994 ]
+			},
+			"properties" : {
+				"objid" : "12",
+				"standort_id" : 11766,
+				"plz" : 8048,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Werdhölzlistrasse 13",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4811247343, 47.3909381014 ]
+			},
+			"properties" : {
+				"objid" : "13",
+				"standort_id" : 2009,
+				"plz" : 8048,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Werdhölzlistrasse 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5446126869, 47.4266669252 ]
+			},
+			"properties" : {
+				"objid" : "14",
+				"standort_id" : 37586,
+				"plz" : 8052,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Birchstrasse 654",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5453900092, 47.4270332297 ]
+			},
+			"properties" : {
+				"objid" : "15",
+				"standort_id" : 37587,
+				"plz" : 8052,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Birchstrasse 660",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5386674499, 47.4097516624 ]
+			},
+			"properties" : {
+				"objid" : "16",
+				"standort_id" : 34062,
+				"plz" : 8050,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Oleanderstrasse 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5453052613, 47.4149197284 ]
+			},
+			"properties" : {
+				"objid" : "17",
+				"standort_id" : 18475,
+				"plz" : 8050,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Schaffhauserstrasse 411",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5399508375, 47.4240462049 ]
+			},
+			"properties" : {
+				"objid" : "18",
+				"standort_id" : 24644,
+				"plz" : 8052,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Birchstrasse 417",
+				"gefaess_typ" : "Bioabfall",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5399547052, 47.4240665867 ]
+			},
+			"properties" : {
+				"objid" : "19",
+				"standort_id" : 10457,
+				"plz" : 8052,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Birchstrasse 417",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5455002465, 47.4114150122 ]
+			},
+			"properties" : {
+				"objid" : "20",
+				"standort_id" : 34224,
+				"plz" : 8050,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Hofwiesenstrasse 379",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5454505693, 47.4117919306 ]
+			},
+			"properties" : {
+				"objid" : "21",
+				"standort_id" : 20476,
+				"plz" : 8050,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Hofwiesenstrasse 379",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5466749322, 47.4092419769 ]
+			},
+			"properties" : {
+				"objid" : "22",
+				"standort_id" : 37131,
+				"plz" : 8050,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Tramstrasse 2",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5393546566, 47.4230006362 ]
+			},
+			"properties" : {
+				"objid" : "23",
+				"standort_id" : 23273,
+				"plz" : 8052,
+				"anzahl_gefaesse" : 6,
+				"standort_adresse" : "Seebacherstrasse 94",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.558657633, 47.3849235254 ]
+			},
+			"properties" : {
+				"objid" : "24",
+				"standort_id" : 40122,
+				"plz" : 8044,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Susenbergstrasse 147",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5453605198, 47.3816296527 ]
+			},
+			"properties" : {
+				"objid" : "25",
+				"standort_id" : 27590,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Sonneggstrasse 66",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5561276096, 47.386259516 ]
+			},
+			"properties" : {
+				"objid" : "26",
+				"standort_id" : 40124,
+				"plz" : 8044,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Susenbergstrasse 177",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.542845855, 47.3867513397 ]
+			},
+			"properties" : {
+				"objid" : "27",
+				"standort_id" : 27432,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Turnerstrasse 40",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.541775296, 47.3832720012 ]
+			},
+			"properties" : {
+				"objid" : "28",
+				"standort_id" : 30675,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Beckenhofstrasse 7",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5512786436, 47.3924550183 ]
+			},
+			"properties" : {
+				"objid" : "29",
+				"standort_id" : 30855,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Krattenturmstrasse 9",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5509740883, 47.381552891 ]
+			},
+			"properties" : {
+				"objid" : "30",
+				"standort_id" : 36143,
+				"plz" : 8044,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hochstrasse 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.547805502, 47.378362467 ]
+			},
+			"properties" : {
+				"objid" : "31",
+				"standort_id" : 21946,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Universitätstrasse 9",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5405110774, 47.3877265717 ]
+			},
+			"properties" : {
+				"objid" : "32",
+				"standort_id" : 27294,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "St. Moritzstrasse 21",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5465321967, 47.378616925 ]
+			},
+			"properties" : {
+				"objid" : "33",
+				"standort_id" : 27138,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Clausiusstrasse 32",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5639660397, 47.3819638969 ]
+			},
+			"properties" : {
+				"objid" : "34",
+				"standort_id" : 40121,
+				"plz" : 8044,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Susenbergstrasse 101",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5562740049, 47.3784054272 ]
+			},
+			"properties" : {
+				"objid" : "35",
+				"standort_id" : 11047,
+				"plz" : 8044,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hochstrasse 69",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5385439419, 47.3870286752 ]
+			},
+			"properties" : {
+				"objid" : "36",
+				"standort_id" : 27255,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Gaugerstrasse 3",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.539884294, 47.3870909266 ]
+			},
+			"properties" : {
+				"objid" : "37",
+				"standort_id" : 27288,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Beckenhofstrasse 63",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5436190451, 47.3802018848 ]
+			},
+			"properties" : {
+				"objid" : "38",
+				"standort_id" : 27182,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Sumatrastrasse 3",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5452307035, 47.3805184683 ]
+			},
+			"properties" : {
+				"objid" : "39",
+				"standort_id" : 27152,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Clausiusstrasse 58",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5420241079, 47.3817410839 ]
+			},
+			"properties" : {
+				"objid" : "40",
+				"standort_id" : 27180,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Stampfenbachstrasse 72",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5554571979, 47.3753409402 ]
+			},
+			"properties" : {
+				"objid" : "41",
+				"standort_id" : 35999,
+				"plz" : 8044,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Nägelistrasse 3",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5406064109, 47.3864056304 ]
+			},
+			"properties" : {
+				"objid" : "42",
+				"standort_id" : 27290,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "St. Moritzstrasse 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5391514801, 47.3835137174 ]
+			},
+			"properties" : {
+				"objid" : "43",
+				"standort_id" : 33293,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Wasserwerkstrasse 21",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.539691257, 47.3837740202 ]
+			},
+			"properties" : {
+				"objid" : "44",
+				"standort_id" : 21609,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Nordstrasse 7",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5477895227, 47.3834744665 ]
+			},
+			"properties" : {
+				"objid" : "45",
+				"standort_id" : 27654,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Universitätstrasse 91",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5622739399, 47.3831536954 ]
+			},
+			"properties" : {
+				"objid" : "46",
+				"standort_id" : 38863,
+				"plz" : 8044,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Susenbergstrasse 108",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4899023967, 47.4037785456 ]
+			},
+			"properties" : {
+				"objid" : "47",
+				"standort_id" : 39373,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bombachsteig 6",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4907247613, 47.4016517542 ]
+			},
+			"properties" : {
+				"objid" : "48",
+				"standort_id" : 39168,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Vorhaldenstrasse 30",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4943237438, 47.4031442171 ]
+			},
+			"properties" : {
+				"objid" : "49",
+				"standort_id" : 42990,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Imbisbühlstrasse 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4861548705, 47.4036415763 ]
+			},
+			"properties" : {
+				"objid" : "50",
+				"standort_id" : 39243,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Limmattalstrasse 341",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5017702861, 47.4006949824 ]
+			},
+			"properties" : {
+				"objid" : "51",
+				"standort_id" : 40818,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Bäulistrasse 51",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5126318666, 47.3970199314 ]
+			},
+			"properties" : {
+				"objid" : "52",
+				"standort_id" : 41383,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Ottenbergstrasse 18",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.499113768, 47.4015615011 ]
+			},
+			"properties" : {
+				"objid" : "53",
+				"standort_id" : 38851,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Ackersteinstrasse 203",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5133872795, 47.3963852346 ]
+			},
+			"properties" : {
+				"objid" : "54",
+				"standort_id" : 43853,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Limmattalstrasse 16",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 240lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4853698918, 47.4058005552 ]
+			},
+			"properties" : {
+				"objid" : "55",
+				"standort_id" : 39496,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Imbisbühlstrasse 119",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4983968502, 47.385041969 ]
+			},
+			"properties" : {
+				"objid" : "56",
+				"standort_id" : 42107,
+				"plz" : 8048,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Rudenzweg 2",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4900191497, 47.4043170926 ]
+			},
+			"properties" : {
+				"objid" : "57",
+				"standort_id" : 42134,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Imbisbühlstrasse 61",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5058450046, 47.3986552264 ]
+			},
+			"properties" : {
+				"objid" : "58",
+				"standort_id" : 42185,
+				"plz" : 8049,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Limmattalstrasse 98",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5198390874, 47.3662127247 ]
+			},
+			"properties" : {
+				"objid" : "59",
+				"standort_id" : 43103,
+				"plz" : 8045,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Austrasse 18",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5218527434, 47.3649432623 ]
+			},
+			"properties" : {
+				"objid" : "60",
+				"standort_id" : 10162,
+				"plz" : 8045,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Manessestrasse 95",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5202601633, 47.3642380378 ]
+			},
+			"properties" : {
+				"objid" : "61",
+				"standort_id" : 44927,
+				"plz" : 8045,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Austrasse 49",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.521886943, 47.3630883233 ]
+			},
+			"properties" : {
+				"objid" : "62",
+				"standort_id" : 6456,
+				"plz" : 8045,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Manessestrasse 132",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.510293069, 47.4136976112 ]
+			},
+			"properties" : {
+				"objid" : "63",
+				"standort_id" : 64287,
+				"plz" : 8046,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Lerchenhalde 40",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4932295044, 47.3987462095 ]
+			},
+			"properties" : {
+				"objid" : "64",
+				"standort_id" : 63099,
+				"plz" : 8064,
+				"anzahl_gefaesse" : 5,
+				"standort_adresse" : "Fischerweg 210",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 800lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5262665776, 47.3915017575 ]
+			},
+			"properties" : {
+				"objid" : "65",
+				"standort_id" : 3540,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Burgstrasse 26",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5245260946, 47.3920890441 ]
+			},
+			"properties" : {
+				"objid" : "66",
+				"standort_id" : 26427,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hönggerstrasse 51",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.521828551, 47.3599015302 ]
+			},
+			"properties" : {
+				"objid" : "67",
+				"standort_id" : 43434,
+				"plz" : 8045,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Edenstrasse 5",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5269166073, 47.3908489812 ]
+			},
+			"properties" : {
+				"objid" : "68",
+				"standort_id" : 26423,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Hönggerstrasse 17",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5243345438, 47.393206682 ]
+			},
+			"properties" : {
+				"objid" : "69",
+				"standort_id" : 61556,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Rosengartenstrasse 1c",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5265212184, 47.4100272684 ]
+			},
+			"properties" : {
+				"objid" : "70",
+				"standort_id" : 18301,
+				"plz" : 8046,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hofhölzliweg 5",
+				"gefaess_typ" : "Bioabfall",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5265365783, 47.4100397168 ]
+			},
+			"properties" : {
+				"objid" : "71",
+				"standort_id" : 23480,
+				"plz" : 8046,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hofhölzliweg 5",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5324187501, 47.3880645004 ]
+			},
+			"properties" : {
+				"objid" : "72",
+				"standort_id" : 21973,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Wasserwerkstrasse 108",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5305161657, 47.3977780177 ]
+			},
+			"properties" : {
+				"objid" : "73",
+				"standort_id" : 26619,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bucheggstrasse 35",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 240lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5301617527, 47.398370992 ]
+			},
+			"properties" : {
+				"objid" : "74",
+				"standort_id" : 38982,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Weihersteig 0a",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5250013038, 47.4117068105 ]
+			},
+			"properties" : {
+				"objid" : "75",
+				"standort_id" : 38217,
+				"plz" : 8046,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Wehntalerstrasse 293",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5227680125, 47.3980892442 ]
+			},
+			"properties" : {
+				"objid" : "76",
+				"standort_id" : 26960,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Wibichstrasse 94",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5247746717, 47.3973760737 ]
+			},
+			"properties" : {
+				"objid" : "77",
+				"standort_id" : 26973,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bruggerweg 19",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5244101309, 47.4121922489 ]
+			},
+			"properties" : {
+				"objid" : "78",
+				"standort_id" : 38255,
+				"plz" : 8046,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Wehntalerstrasse 310",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5162230754, 47.3981452412 ]
+			},
+			"properties" : {
+				"objid" : "79",
+				"standort_id" : 26939,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Rebbergstrasse 19",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.517115006, 47.4032416918 ]
+			},
+			"properties" : {
+				"objid" : "80",
+				"standort_id" : 6855,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Waidbadstrasse 151",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5087578825, 47.3539206385 ]
+			},
+			"properties" : {
+				"objid" : "81",
+				"standort_id" : 43499,
+				"plz" : 8045,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Uetliberghalde 9",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.505356614, 47.417939063 ]
+			},
+			"properties" : {
+				"objid" : "82",
+				"standort_id" : 38137,
+				"plz" : 8046,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Tobelsteig 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5146204587, 47.3362183317 ]
+			},
+			"properties" : {
+				"objid" : "83",
+				"standort_id" : 44878,
+				"plz" : 8041,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Frymannstrasse 74",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5282283894, 47.3636637251 ]
+			},
+			"properties" : {
+				"objid" : "84",
+				"standort_id" : 19671,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Bederstrasse 51",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5333991326, 47.3623453376 ]
+			},
+			"properties" : {
+				"objid" : "85",
+				"standort_id" : 3057,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Breitingerstrasse 17",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5322091906, 47.3598457012 ]
+			},
+			"properties" : {
+				"objid" : "86",
+				"standort_id" : 30326,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Sternenstrasse 31",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5314115426, 47.3595592001 ]
+			},
+			"properties" : {
+				"objid" : "87",
+				"standort_id" : 30505,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Grütlistrasse 84",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5314056595, 47.3596144861 ]
+			},
+			"properties" : {
+				"objid" : "88",
+				"standort_id" : 16183,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Grütlistrasse 84",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4901921812, 47.3853951504 ]
+			},
+			"properties" : {
+				"objid" : "89",
+				"standort_id" : 11089,
+				"plz" : 8048,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Luggwegstrasse 65",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 800lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5269158008, 47.3577457735 ]
+			},
+			"properties" : {
+				"objid" : "90",
+				"standort_id" : 6876,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Waffenplatzstrasse 60",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5269303946, 47.3581883781 ]
+			},
+			"properties" : {
+				"objid" : "91",
+				"standort_id" : 45238,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Waffenplatzstrasse 56",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5136142158, 47.3341076271 ]
+			},
+			"properties" : {
+				"objid" : "92",
+				"standort_id" : 43644,
+				"plz" : 8041,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Rebenweg 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.527811057, 47.3573825634 ]
+			},
+			"properties" : {
+				"objid" : "93",
+				"standort_id" : 30244,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Steinhaldenstrasse 73",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5274010511, 47.386501142 ]
+			},
+			"properties" : {
+				"objid" : "94",
+				"standort_id" : 20945,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Heinrichstrasse 133",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.517550992, 47.3853804673 ]
+			},
+			"properties" : {
+				"objid" : "95",
+				"standort_id" : 18311,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 5,
+				"standort_adresse" : "Geroldstrasse 31j",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5313793905, 47.3845890954 ]
+			},
+			"properties" : {
+				"objid" : "96",
+				"standort_id" : 3515,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Limmatplatz 3",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5328935058, 47.3823326446 ]
+			},
+			"properties" : {
+				"objid" : "97",
+				"standort_id" : 10350,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Konradstrasse 79",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5277760091, 47.3891256121 ]
+			},
+			"properties" : {
+				"objid" : "98",
+				"standort_id" : 8848,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Sihlquai 280",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5265846761, 47.3614412273 ]
+			},
+			"properties" : {
+				"objid" : "99",
+				"standort_id" : 30482,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Waffenplatzstrasse 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5310679455, 47.3829381113 ]
+			},
+			"properties" : {
+				"objid" : "100",
+				"standort_id" : 57054,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Josefstrasse 84",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5359013591, 47.3611404342 ]
+			},
+			"properties" : {
+				"objid" : "101",
+				"standort_id" : 62092,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Mythenquai 21",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5279598475, 47.3889891327 ]
+			},
+			"properties" : {
+				"objid" : "102",
+				"standort_id" : 16175,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Sihlquai 278",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5334017523, 47.3820852314 ]
+			},
+			"properties" : {
+				"objid" : "103",
+				"standort_id" : 22623,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Konradstrasse 72",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5236673034, 47.3865577646 ]
+			},
+			"properties" : {
+				"objid" : "104",
+				"standort_id" : 20947,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Josefstrasse 198",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5252580524, 47.3863132602 ]
+			},
+			"properties" : {
+				"objid" : "105",
+				"standort_id" : 20867,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Ottostrasse 17",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5356079555, 47.3822299038 ]
+			},
+			"properties" : {
+				"objid" : "106",
+				"standort_id" : 30021,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Baumgasse 10",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5343134706, 47.3806046277 ]
+			},
+			"properties" : {
+				"objid" : "107",
+				"standort_id" : 21157,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Josefstrasse 13",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.53619811, 47.3804620653 ]
+			},
+			"properties" : {
+				"objid" : "108",
+				"standort_id" : 21001,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Konradstrasse 20",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5338894103, 47.3673676329 ]
+			},
+			"properties" : {
+				"objid" : "109",
+				"standort_id" : 21884,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Tödistrasse 46",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5089740135, 47.3922265018 ]
+			},
+			"properties" : {
+				"objid" : "110",
+				"standort_id" : 25373,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Förrlibuckstrasse 195",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5269306348, 47.3593675518 ]
+			},
+			"properties" : {
+				"objid" : "111",
+				"standort_id" : 7326,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Waffenplatzstrasse 47",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5359236099, 47.3567476078 ]
+			},
+			"properties" : {
+				"objid" : "112",
+				"standort_id" : 6338,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Mythenquai 79",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5341133163, 47.369333558 ]
+			},
+			"properties" : {
+				"objid" : "113",
+				"standort_id" : 16735,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Stockerstrasse 62",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5311877866, 47.3680464486 ]
+			},
+			"properties" : {
+				"objid" : "114",
+				"standort_id" : 21989,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Freigutstrasse 15",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5191623407, 47.3340708445 ]
+			},
+			"properties" : {
+				"objid" : "115",
+				"standort_id" : 43626,
+				"plz" : 8041,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bruderwiesweg 2",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.526869457, 47.3542427711 ]
+			},
+			"properties" : {
+				"objid" : "116",
+				"standort_id" : 31226,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Mutschellenstrasse 8",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5268895051, 47.35411602 ]
+			},
+			"properties" : {
+				"objid" : "117",
+				"standort_id" : 31227,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Mutschellenstrasse 10",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5269108673, 47.3539888068 ]
+			},
+			"properties" : {
+				"objid" : "118",
+				"standort_id" : 31600,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Mutschellenstrasse 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5299040648, 47.3846971287 ]
+			},
+			"properties" : {
+				"objid" : "119",
+				"standort_id" : 46078,
+				"plz" : 8005,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Heinrichstrasse 79",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.53205861, 47.3646840058 ]
+			},
+			"properties" : {
+				"objid" : "120",
+				"standort_id" : 37693,
+				"plz" : 8002,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Gotthardstrasse 66",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5323875539, 47.3961597387 ]
+			},
+			"properties" : {
+				"objid" : "121",
+				"standort_id" : 33341,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Rötelstrasse 100",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5235508371, 47.3777858528 ]
+			},
+			"properties" : {
+				"objid" : "122",
+				"standort_id" : 61981,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 8,
+				"standort_adresse" : "Bäckeranlage 1",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 800lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5218718334, 47.3737604664 ]
+			},
+			"properties" : {
+				"objid" : "123",
+				"standort_id" : 3782,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Elisabethenstrasse 28",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5219062594, 47.3737994522 ]
+			},
+			"properties" : {
+				"objid" : "124",
+				"standort_id" : 63670,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Elisabethenstrasse 28",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5237613774, 47.3765231209 ]
+			},
+			"properties" : {
+				"objid" : "125",
+				"standort_id" : 20702,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Engelstrasse 60",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5301744158, 47.3936997345 ]
+			},
+			"properties" : {
+				"objid" : "126",
+				"standort_id" : 26473,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Rötelsteig 6",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5290426083, 47.3726358901 ]
+			},
+			"properties" : {
+				"objid" : "127",
+				"standort_id" : 20651,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Stauffacherstrasse 25",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5296987789, 47.3727294498 ]
+			},
+			"properties" : {
+				"objid" : "128",
+				"standort_id" : 40129,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Werdstrasse 36",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.529673543, 47.3727580229 ]
+			},
+			"properties" : {
+				"objid" : "129",
+				"standort_id" : 18330,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Werdstrasse 36",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5315344506, 47.3894570326 ]
+			},
+			"properties" : {
+				"objid" : "130",
+				"standort_id" : 2665,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Imfeldstrasse 47",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5288026454, 47.3786880033 ]
+			},
+			"properties" : {
+				"objid" : "131",
+				"standort_id" : 18836,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Tellstrasse 19",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5285576392, 47.3769712589 ]
+			},
+			"properties" : {
+				"objid" : "132",
+				"standort_id" : 20759,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Brauerstrasse 3",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5225105258, 47.3760485887 ]
+			},
+			"properties" : {
+				"objid" : "133",
+				"standort_id" : 27219,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Schreinerstrasse 44",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5262345601, 47.3737089469 ]
+			},
+			"properties" : {
+				"objid" : "134",
+				"standort_id" : 20858,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Badenerstrasse 85",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 240lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5302157051, 47.3753279356 ]
+			},
+			"properties" : {
+				"objid" : "135",
+				"standort_id" : 45256,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "St. Jakobstrasse 57",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5302010482, 47.3753364396 ]
+			},
+			"properties" : {
+				"objid" : "136",
+				"standort_id" : 20677,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "St. Jakobstrasse 57",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.52870807, 47.3754559609 ]
+			},
+			"properties" : {
+				"objid" : "137",
+				"standort_id" : 20767,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Rotwandstrasse 50",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.530305807, 47.3745871452 ]
+			},
+			"properties" : {
+				"objid" : "138",
+				"standort_id" : 20676,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Müllerstrasse 31",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5269814546, 47.3724605848 ]
+			},
+			"properties" : {
+				"objid" : "139",
+				"standort_id" : 20644,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Werdstrasse 72",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.526441695, 47.3935588107 ]
+			},
+			"properties" : {
+				"objid" : "140",
+				"standort_id" : 26716,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Röschibachstrasse 55",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.532070603, 47.3737054814 ]
+			},
+			"properties" : {
+				"objid" : "141",
+				"standort_id" : 46266,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Kasernenstrasse 2",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5293763705, 47.371209709 ]
+			},
+			"properties" : {
+				"objid" : "142",
+				"standort_id" : 20825,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Morgartenstrasse 7",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5254933837, 47.3804672039 ]
+			},
+			"properties" : {
+				"objid" : "143",
+				"standort_id" : 20502,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Schöneggstrasse 31",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5254654706, 47.3804816788 ]
+			},
+			"properties" : {
+				"objid" : "144",
+				"standort_id" : 19887,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Schöneggplatz 1",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5257696682, 47.3805465497 ]
+			},
+			"properties" : {
+				"objid" : "145",
+				"standort_id" : 21019,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Schöneggstrasse 31",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5245571134, 47.3795652545 ]
+			},
+			"properties" : {
+				"objid" : "146",
+				"standort_id" : 29586,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Magnusstrasse 5",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.526307703, 47.3796360381 ]
+			},
+			"properties" : {
+				"objid" : "147",
+				"standort_id" : 20775,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Zinistrasse 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5177739027, 47.3808088835 ]
+			},
+			"properties" : {
+				"objid" : "148",
+				"standort_id" : 21769,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 5,
+				"standort_adresse" : "Zypressenstrasse 144",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.520628098, 47.3967836993 ]
+			},
+			"properties" : {
+				"objid" : "149",
+				"standort_id" : 26870,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Griesernweg 8",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5121495991, 47.3787584128 ]
+			},
+			"properties" : {
+				"objid" : "150",
+				"standort_id" : 25291,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Agnesstrasse 45",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4895417224, 47.3706042964 ]
+			},
+			"properties" : {
+				"objid" : "151",
+				"standort_id" : 41916,
+				"plz" : 8047,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Triemlistrasse 93",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5233906013, 47.3787683637 ]
+			},
+			"properties" : {
+				"objid" : "152",
+				"standort_id" : 59249,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Feldstrasse 98",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5240419664, 47.3784146747 ]
+			},
+			"properties" : {
+				"objid" : "153",
+				"standort_id" : 58684,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hohlstrasse 82",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5216914796, 47.3783743094 ]
+			},
+			"properties" : {
+				"objid" : "154",
+				"standort_id" : 20779,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Pflanzschulstrasse 87",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5263523647, 47.3783138765 ]
+			},
+			"properties" : {
+				"objid" : "155",
+				"standort_id" : 22609,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 6,
+				"standort_adresse" : "Brauerstrasse 48",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5181281887, 47.3788551677 ]
+			},
+			"properties" : {
+				"objid" : "156",
+				"standort_id" : 17790,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Erismannstrasse 30",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5175573575, 47.3973132537 ]
+			},
+			"properties" : {
+				"objid" : "157",
+				"standort_id" : 26918,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Griesernweg 33",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5170381392, 47.3955109057 ]
+			},
+			"properties" : {
+				"objid" : "158",
+				"standort_id" : 26760,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hönggerstrasse 127",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5220548378, 47.3770702101 ]
+			},
+			"properties" : {
+				"objid" : "159",
+				"standort_id" : 20806,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Feldstrasse 60",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5164545019, 47.3759319174 ]
+			},
+			"properties" : {
+				"objid" : "160",
+				"standort_id" : 22813,
+				"plz" : 8004,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Sihlfeldstrasse 81",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5201949777, 47.3934392554 ]
+			},
+			"properties" : {
+				"objid" : "161",
+				"standort_id" : 11053,
+				"plz" : 8037,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Breitensteinstrasse 31",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5328501633, 47.3984891293 ]
+			},
+			"properties" : {
+				"objid" : "162",
+				"standort_id" : 62432,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bucheggplatz 4",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5131223189, 47.3703912137 ]
+			},
+			"properties" : {
+				"objid" : "163",
+				"standort_id" : 43233,
+				"plz" : 8055,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Goldbrunnenstrasse 114",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5431557453, 47.3936763161 ]
+			},
+			"properties" : {
+				"objid" : "164",
+				"standort_id" : 33067,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Milchbuckstrasse 70",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5135537907, 47.3700672429 ]
+			},
+			"properties" : {
+				"objid" : "165",
+				"standort_id" : 62137,
+				"plz" : 8055,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Goldbrunnenplatz 2",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5093892711, 47.3696884615 ]
+			},
+			"properties" : {
+				"objid" : "166",
+				"standort_id" : 42564,
+				"plz" : 8055,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Birmensdorferstrasse 303",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.4949925772, 47.3671511938 ]
+			},
+			"properties" : {
+				"objid" : "167",
+				"standort_id" : 42748,
+				"plz" : 8055,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Hohensteinweg 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5504913855, 47.40466075 ]
+			},
+			"properties" : {
+				"objid" : "168",
+				"standort_id" : 22871,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Friedheimstrasse 17",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.530021301, 47.4082837792 ]
+			},
+			"properties" : {
+				"objid" : "169",
+				"standort_id" : 32144,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Wehntalerstrasse 196",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5303974859, 47.4079546064 ]
+			},
+			"properties" : {
+				"objid" : "170",
+				"standort_id" : 19121,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Wehntalerstrasse 194",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5343948364, 47.3930001813 ]
+			},
+			"properties" : {
+				"objid" : "171",
+				"standort_id" : 33157,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Rötelstrasse 48",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5064782876, 47.3657071908 ]
+			},
+			"properties" : {
+				"objid" : "172",
+				"standort_id" : 8809,
+				"plz" : 8055,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Bernhard-Jaeggi-Weg 35",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.506498364, 47.3657114128 ]
+			},
+			"properties" : {
+				"objid" : "173",
+				"standort_id" : 45205,
+				"plz" : 8055,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Bernhard-Jaeggi-Weg 35",
+				"gefaess_typ" : "Bioabfall",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5417411603, 47.3977914979 ]
+			},
+			"properties" : {
+				"objid" : "174",
+				"standort_id" : 60762,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Schaffhauserstrasse 146",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5407213724, 47.4023905135 ]
+			},
+			"properties" : {
+				"objid" : "175",
+				"standort_id" : 7062,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Beckhammer 43",
+				"gefaess_typ" : "Bioabfall",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5407117191, 47.4023978016 ]
+			},
+			"properties" : {
+				"objid" : "176",
+				"standort_id" : 32715,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Beckhammer 43",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5387154143, 47.3984274185 ]
+			},
+			"properties" : {
+				"objid" : "177",
+				"standort_id" : 32936,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bucheggstrasse 136",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5547055152, 47.4005390614 ]
+			},
+			"properties" : {
+				"objid" : "178",
+				"standort_id" : 59917,
+				"plz" : 8057,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Frohburgstrasse 236",
+				"gefaess_typ" : "Bioabfall",
+				"gefaess_art" : "Container 140lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5629484373, 47.3549597949 ]
+			},
+			"properties" : {
+				"objid" : "179",
+				"standort_id" : 61924,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Südstrasse 13",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 240lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5532091623, 47.3619701816 ]
+			},
+			"properties" : {
+				"objid" : "180",
+				"standort_id" : 14694,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Florastrasse 55",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5821483837, 47.3519219015 ]
+			},
+			"properties" : {
+				"objid" : "181",
+				"standort_id" : 31022,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Rehalpstrasse 63",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5602626334, 47.3616108043 ]
+			},
+			"properties" : {
+				"objid" : "182",
+				"standort_id" : 61179,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Neumünsterstrasse 34",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5306868483, 47.344614165 ]
+			},
+			"properties" : {
+				"objid" : "183",
+				"standort_id" : 45155,
+				"plz" : 8038,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Etzelstrasse 9",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5510365271, 47.3607826259 ]
+			},
+			"properties" : {
+				"objid" : "184",
+				"standort_id" : 31313,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Mainaustrasse 30",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5598077925, 47.3601081635 ]
+			},
+			"properties" : {
+				"objid" : "185",
+				"standort_id" : 1816,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hammerstrasse 25",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.552305692, 47.3593880107 ]
+			},
+			"properties" : {
+				"objid" : "186",
+				"standort_id" : 31304,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Klausstrasse 49",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5753894358, 47.3545196411 ]
+			},
+			"properties" : {
+				"objid" : "187",
+				"standort_id" : 31118,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Balgriststrasse 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5728244844, 47.3552589977 ]
+			},
+			"properties" : {
+				"objid" : "188",
+				"standort_id" : 31447,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Karl-Stauffer-Strasse 25",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5351621699, 47.3342495397 ]
+			},
+			"properties" : {
+				"objid" : "189",
+				"standort_id" : 44569,
+				"plz" : 8038,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Kalchbühlstrasse 153",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5354713929, 47.3338438846 ]
+			},
+			"properties" : {
+				"objid" : "190",
+				"standort_id" : 6197,
+				"plz" : 8038,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Kalchbühlstrasse 161",
+				"gefaess_typ" : "Bioabfall",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5354895837, 47.3338212236 ]
+			},
+			"properties" : {
+				"objid" : "191",
+				"standort_id" : 6008,
+				"plz" : 8038,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Kalchbühlstrasse 161",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.532229228, 47.3496053054 ]
+			},
+			"properties" : {
+				"objid" : "192",
+				"standort_id" : 44045,
+				"plz" : 8038,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Seestrasse 290",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5294679238, 47.3382453836 ]
+			},
+			"properties" : {
+				"objid" : "193",
+				"standort_id" : 44952,
+				"plz" : 8038,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Owenweg 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5321103811, 47.3501802345 ]
+			},
+			"properties" : {
+				"objid" : "194",
+				"standort_id" : 14675,
+				"plz" : 8038,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Honrainweg 19",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5462154412, 47.3639416599 ]
+			},
+			"properties" : {
+				"objid" : "195",
+				"standort_id" : 62093,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Utoquai 6",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5478797604, 47.3606972234 ]
+			},
+			"properties" : {
+				"objid" : "196",
+				"standort_id" : 62083,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Seefeldquai 1",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5662964372, 47.4036584833 ]
+			},
+			"properties" : {
+				"objid" : "197",
+				"standort_id" : 35089,
+				"plz" : 8051,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Winterthurerstrasse 438",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5557166387, 47.3589336391 ]
+			},
+			"properties" : {
+				"objid" : "198",
+				"standort_id" : 30747,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Arbenzstrasse 16",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5489582867, 47.363392072 ]
+			},
+			"properties" : {
+				"objid" : "199",
+				"standort_id" : 13466,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hallenstrasse 10",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5489748123, 47.3633973102 ]
+			},
+			"properties" : {
+				"objid" : "200",
+				"standort_id" : 29975,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hallenstrasse 10",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 140lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5504659131, 47.3612062178 ]
+			},
+			"properties" : {
+				"objid" : "201",
+				"standort_id" : 31301,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Florastrasse 28",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5511025281, 47.3615221148 ]
+			},
+			"properties" : {
+				"objid" : "202",
+				"standort_id" : 30029,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Seefeldstrasse 66",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5511166727, 47.3615274656 ]
+			},
+			"properties" : {
+				"objid" : "203",
+				"standort_id" : 46869,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Seefeldstrasse 66",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5479063451, 47.363196641 ]
+			},
+			"properties" : {
+				"objid" : "204",
+				"standort_id" : 29971,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Seerosenstrasse 4",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.553061532, 47.3570926081 ]
+			},
+			"properties" : {
+				"objid" : "205",
+				"standort_id" : 31920,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Dufourstrasse 131",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5568949282, 47.3568242807 ]
+			},
+			"properties" : {
+				"objid" : "206",
+				"standort_id" : 22857,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Hornbachstrasse 69",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5554900597, 47.3574448745 ]
+			},
+			"properties" : {
+				"objid" : "207",
+				"standort_id" : 31838,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Tuggenerstrasse 3",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5559747477, 47.3552619938 ]
+			},
+			"properties" : {
+				"objid" : "208",
+				"standort_id" : 31749,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Helenastrasse 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5580197167, 47.356080182 ]
+			},
+			"properties" : {
+				"objid" : "209",
+				"standort_id" : 31584,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 5,
+				"standort_adresse" : "Geranienstrasse 2",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5997471205, 47.3578274349 ]
+			},
+			"properties" : {
+				"objid" : "210",
+				"standort_id" : 36562,
+				"plz" : 8053,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Am Oeschbrig 27",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5567945693, 47.3543363652 ]
+			},
+			"properties" : {
+				"objid" : "211",
+				"standort_id" : 31735,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Säntisstrasse 14",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5551236333, 47.364594297 ]
+			},
+			"properties" : {
+				"objid" : "212",
+				"standort_id" : 29048,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Forchstrasse 5",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5533150773, 47.3637940145 ]
+			},
+			"properties" : {
+				"objid" : "213",
+				"standort_id" : 30036,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Kleinstrasse 16",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5541337529, 47.3641845067 ]
+			},
+			"properties" : {
+				"objid" : "214",
+				"standort_id" : 35494,
+				"plz" : 8008,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Zollikerstrasse 4",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5417691119, 47.3714884315 ]
+			},
+			"properties" : {
+				"objid" : "215",
+				"standort_id" : 21303,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Weinplatz 10",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5430286728, 47.3724375272 ]
+			},
+			"properties" : {
+				"objid" : "216",
+				"standort_id" : 21124,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Limmatquai 66",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5430350388, 47.3711023156 ]
+			},
+			"properties" : {
+				"objid" : "217",
+				"standort_id" : 21125,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Limmatquai 48",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5431060537, 47.3721716102 ]
+			},
+			"properties" : {
+				"objid" : "218",
+				"standort_id" : 2271,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Schneggengasse 8",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5431479487, 47.3709791717 ]
+			},
+			"properties" : {
+				"objid" : "219",
+				"standort_id" : 8458,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Limmatquai 42",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5432738505, 47.3722049967 ]
+			},
+			"properties" : {
+				"objid" : "220",
+				"standort_id" : 45021,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Metzgergasse 3",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5434078564, 47.3715663184 ]
+			},
+			"properties" : {
+				"objid" : "221",
+				"standort_id" : 16547,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 5,
+				"standort_adresse" : "Limmatquai 54",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5436546308, 47.3725352546 ]
+			},
+			"properties" : {
+				"objid" : "222",
+				"standort_id" : 21120,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Stüssihofstatt 4",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5466265759, 47.3697476085 ]
+			},
+			"properties" : {
+				"objid" : "223",
+				"standort_id" : 21128,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Trittligasse 36",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5456713208, 47.371083015 ]
+			},
+			"properties" : {
+				"objid" : "224",
+				"standort_id" : 21122,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Obere Zäune 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5468963917, 47.3710899767 ]
+			},
+			"properties" : {
+				"objid" : "225",
+				"standort_id" : 21116,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hirschengraben 22",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.539282557, 47.3710775972 ]
+			},
+			"properties" : {
+				"objid" : "226",
+				"standort_id" : 29693,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 5,
+				"standort_adresse" : "St. Peterstrasse 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5396313254, 47.3701865417 ]
+			},
+			"properties" : {
+				"objid" : "227",
+				"standort_id" : 59774,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bahnhofstrasse 28a",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5404319061, 47.3704192581 ]
+			},
+			"properties" : {
+				"objid" : "228",
+				"standort_id" : 45018,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 10,
+				"standort_adresse" : "Münsterhof 10",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5405883477, 47.3702111469 ]
+			},
+			"properties" : {
+				"objid" : "229",
+				"standort_id" : 21338,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Münsterhof 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5403871658, 47.3687350721 ]
+			},
+			"properties" : {
+				"objid" : "230",
+				"standort_id" : 686,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Kappelergasse 13",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5405550692, 47.3687421956 ]
+			},
+			"properties" : {
+				"objid" : "231",
+				"standort_id" : 17385,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Fraumünsterstrasse 17",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5404993655, 47.3687504629 ]
+			},
+			"properties" : {
+				"objid" : "232",
+				"standort_id" : 14410,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Kappelergasse 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5391063935, 47.3691442387 ]
+			},
+			"properties" : {
+				"objid" : "233",
+				"standort_id" : 37932,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Tiefenhöfe 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5391366836, 47.3691491673 ]
+			},
+			"properties" : {
+				"objid" : "234",
+				"standort_id" : 45676,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Tiefenhöfe 11",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5403896567, 47.3696435592 ]
+			},
+			"properties" : {
+				"objid" : "235",
+				"standort_id" : 59920,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Poststrasse 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5461561148, 47.3680833374 ]
+			},
+			"properties" : {
+				"objid" : "236",
+				"standort_id" : 21130,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Oberdorfstrasse 2",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5360009538, 47.3692852354 ]
+			},
+			"properties" : {
+				"objid" : "237",
+				"standort_id" : 37935,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bärengasse 32",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5436350461, 47.3694698924 ]
+			},
+			"properties" : {
+				"objid" : "238",
+				"standort_id" : 21127,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Limmatquai 24",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5440343375, 47.3683503116 ]
+			},
+			"properties" : {
+				"objid" : "239",
+				"standort_id" : 56406,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Limmatquai 7",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5441496064, 47.3697331142 ]
+			},
+			"properties" : {
+				"objid" : "240",
+				"standort_id" : 21126,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Grossmünsterplatz 7",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5445573288, 47.3685736022 ]
+			},
+			"properties" : {
+				"objid" : "241",
+				"standort_id" : 21129,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Schifflände 16",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5221150551, 47.3697918768 ]
+			},
+			"properties" : {
+				"objid" : "242",
+				"standort_id" : 21729,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Aegertenstrasse 46",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5199211265, 47.3729207894 ]
+			},
+			"properties" : {
+				"objid" : "243",
+				"standort_id" : 20890,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Stationsstrasse 6",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5181629761, 47.3718179723 ]
+			},
+			"properties" : {
+				"objid" : "244",
+				"standort_id" : 20893,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Zurlindenstrasse 123",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5190990213, 47.3714470768 ]
+			},
+			"properties" : {
+				"objid" : "245",
+				"standort_id" : 11979,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bremgartnerstrasse 31",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5401887876, 47.3680669149 ]
+			},
+			"properties" : {
+				"objid" : "246",
+				"standort_id" : 60643,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Börsenstrasse 18",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5408118611, 47.3681559595 ]
+			},
+			"properties" : {
+				"objid" : "247",
+				"standort_id" : 59780,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Börsenstrasse 12",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5405558352, 47.368254021 ]
+			},
+			"properties" : {
+				"objid" : "248",
+				"standort_id" : 12188,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Börsenstrasse 14",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5401914743, 47.368286641 ]
+			},
+			"properties" : {
+				"objid" : "249",
+				"standort_id" : 2241,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bahnhofstrasse 12",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5406835157, 47.36831379 ]
+			},
+			"properties" : {
+				"objid" : "250",
+				"standort_id" : 1625,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Fraumünsterstrasse 9",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5406340099, 47.3684809426 ]
+			},
+			"properties" : {
+				"objid" : "251",
+				"standort_id" : 2072,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Fraumünsterstrasse 13",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5401121809, 47.3684988734 ]
+			},
+			"properties" : {
+				"objid" : "252",
+				"standort_id" : 9586,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Bahnhofstrasse 14",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5400963617, 47.3685406719 ]
+			},
+			"properties" : {
+				"objid" : "253",
+				"standort_id" : 5384,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Bahnhofstrasse 16",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5401162119, 47.3686875534 ]
+			},
+			"properties" : {
+				"objid" : "254",
+				"standort_id" : 4495,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Bahnhofstrasse 18",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5442821756, 47.3667789123 ]
+			},
+			"properties" : {
+				"objid" : "255",
+				"standort_id" : 42308,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Utoquai 4",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5477356864, 47.3665882037 ]
+			},
+			"properties" : {
+				"objid" : "256",
+				"standort_id" : 45408,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Stadelhoferstrasse 10",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5477986387, 47.3665975838 ]
+			},
+			"properties" : {
+				"objid" : "257",
+				"standort_id" : 46833,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Stadelhoferstrasse 10",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5204077157, 47.3710335553 ]
+			},
+			"properties" : {
+				"objid" : "258",
+				"standort_id" : 21710,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Zentralstrasse 18",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5207346906, 47.3702144551 ]
+			},
+			"properties" : {
+				"objid" : "259",
+				"standort_id" : 45240,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Birmensdorferstrasse 126",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5165037702, 47.3708311419 ]
+			},
+			"properties" : {
+				"objid" : "260",
+				"standort_id" : 25908,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Birmensdorferstrasse 198",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5168084492, 47.3709231068 ]
+			},
+			"properties" : {
+				"objid" : "261",
+				"standort_id" : 45754,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Stationsstrasse 62",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.538660855, 47.3758238699 ]
+			},
+			"properties" : {
+				"objid" : "262",
+				"standort_id" : 37933,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Schweizergasse 4",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5382169832, 47.3762670586 ]
+			},
+			"properties" : {
+				"objid" : "263",
+				"standort_id" : 38628,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Schweizergasse 10",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5256769574, 47.3700145004 ]
+			},
+			"properties" : {
+				"objid" : "264",
+				"standort_id" : 20818,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Verena-Conzett-Strasse 33",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5249168929, 47.3700381123 ]
+			},
+			"properties" : {
+				"objid" : "265",
+				"standort_id" : 10707,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Schimmelstrasse 9",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5233112183, 47.3705534212 ]
+			},
+			"properties" : {
+				"objid" : "266",
+				"standort_id" : 30677,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Gerhardstrasse 4",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5233415364, 47.3705662694 ]
+			},
+			"properties" : {
+				"objid" : "267",
+				"standort_id" : 45179,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Gerhardstrasse 4",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5144290799, 47.3706813757 ]
+			},
+			"properties" : {
+				"objid" : "268",
+				"standort_id" : 25623,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Kalkbreitestrasse 129",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.539011322, 47.3739611467 ]
+			},
+			"properties" : {
+				"objid" : "269",
+				"standort_id" : 21341,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Oetenbachgasse 26",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.517996794, 47.369836282 ]
+			},
+			"properties" : {
+				"objid" : "270",
+				"standort_id" : 19454,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Zweierstrasse 169",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5156353989, 47.3703706866 ]
+			},
+			"properties" : {
+				"objid" : "271",
+				"standort_id" : 25576,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Rotachstrasse 24",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5415512146, 47.3742298949 ]
+			},
+			"properties" : {
+				"objid" : "272",
+				"standort_id" : 21342,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Schipfe 57",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5386116783, 47.37260039 ]
+			},
+			"properties" : {
+				"objid" : "273",
+				"standort_id" : 471,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Bahnhofstrasse 50",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.524347786, 47.369946046 ]
+			},
+			"properties" : {
+				"objid" : "274",
+				"standort_id" : 45637,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Schimmelstrasse 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.539598351, 47.3717313234 ]
+			},
+			"properties" : {
+				"objid" : "275",
+				"standort_id" : 15553,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Augustinerhof 8",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5391581257, 47.371912993 ]
+			},
+			"properties" : {
+				"objid" : "276",
+				"standort_id" : 21340,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Münzplatz 5",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5401253103, 47.3724086713 ]
+			},
+			"properties" : {
+				"objid" : "277",
+				"standort_id" : 21309,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Rennweg 2",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5324445573, 47.3700795093 ]
+			},
+			"properties" : {
+				"objid" : "278",
+				"standort_id" : 22323,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Gerechtigkeitsgasse 9",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5327852399, 47.3699246244 ]
+			},
+			"properties" : {
+				"objid" : "279",
+				"standort_id" : 21974,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Friedensgasse 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5250526007, 47.3699207087 ]
+			},
+			"properties" : {
+				"objid" : "280",
+				"standort_id" : 36919,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Schimmelstrasse 7",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5252888355, 47.3697268902 ]
+			},
+			"properties" : {
+				"objid" : "281",
+				"standort_id" : 21766,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Schimmelstrasse 3",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.525330388, 47.369797201 ]
+			},
+			"properties" : {
+				"objid" : "282",
+				"standort_id" : 45675,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Schimmelstrasse 5",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5255475081, 47.3695491411 ]
+			},
+			"properties" : {
+				"objid" : "283",
+				"standort_id" : 21764,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Schimmelstrasse 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5262855543, 47.3696862055 ]
+			},
+			"properties" : {
+				"objid" : "284",
+				"standort_id" : 38913,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Hallwylstrasse 84",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5314605728, 47.3694821013 ]
+			},
+			"properties" : {
+				"objid" : "285",
+				"standort_id" : 21972,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Gerechtigkeitsgasse 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5541193511, 47.3650211087 ]
+			},
+			"properties" : {
+				"objid" : "286",
+				"standort_id" : 62158,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Kreuzplatz 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 140lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5230817831, 47.3673525897 ]
+			},
+			"properties" : {
+				"objid" : "287",
+				"standort_id" : 6061,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Zurlindenstrasse 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5202732539, 47.3667104079 ]
+			},
+			"properties" : {
+				"objid" : "288",
+				"standort_id" : 25675,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Steinstrasse 50",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5409184286, 47.3789893255 ]
+			},
+			"properties" : {
+				"objid" : "289",
+				"standort_id" : 61970,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Museumstrasse 2",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5352284165, 47.3758398647 ]
+			},
+			"properties" : {
+				"objid" : "290",
+				"standort_id" : 61971,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Gessnerallee 13",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5381597672, 47.3760740279 ]
+			},
+			"properties" : {
+				"objid" : "291",
+				"standort_id" : 63902,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Schweizergasse 10",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5450763153, 47.3666198283 ]
+			},
+			"properties" : {
+				"objid" : "292",
+				"standort_id" : 25866,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Bellevueplatz 2",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5434195682, 47.3715116958 ]
+			},
+			"properties" : {
+				"objid" : "293",
+				"standort_id" : 62501,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Münstergasse 31",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5445326582, 47.3721710929 ]
+			},
+			"properties" : {
+				"objid" : "294",
+				"standort_id" : 63660,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Rindermarkt 12",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5431418813, 47.3728462638 ]
+			},
+			"properties" : {
+				"objid" : "295",
+				"standort_id" : 45025,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Limmatquai 72",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5431323219, 47.3729536674 ]
+			},
+			"properties" : {
+				"objid" : "296",
+				"standort_id" : 61680,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Limmatquai 74",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5431328158, 47.3729711132 ]
+			},
+			"properties" : {
+				"objid" : "297",
+				"standort_id" : 4789,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Rosengasse 6",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5717471909, 47.3582711967 ]
+			},
+			"properties" : {
+				"objid" : "298",
+				"standort_id" : 59871,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Forchstrasse 261",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5473616756, 47.3658059762 ]
+			},
+			"properties" : {
+				"objid" : "299",
+				"standort_id" : 32122,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Stadelhoferplatz 1",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 800lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5473419565, 47.365812732 ]
+			},
+			"properties" : {
+				"objid" : "300",
+				"standort_id" : 62268,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Goethestrasse 20",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.546349875, 47.3687868803 ]
+			},
+			"properties" : {
+				"objid" : "301",
+				"standort_id" : 62301,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Waldmannstrasse 10",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5463952591, 47.3688045253 ]
+			},
+			"properties" : {
+				"objid" : "302",
+				"standort_id" : 63226,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Waldmannstrasse 12",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5422424651, 47.3678486064 ]
+			},
+			"properties" : {
+				"objid" : "303",
+				"standort_id" : 61950,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Stadthausquai 2",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5420021136, 47.3684606849 ]
+			},
+			"properties" : {
+				"objid" : "304",
+				"standort_id" : 64126,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Stadthausquai 12",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5408499062, 47.36844632 ]
+			},
+			"properties" : {
+				"objid" : "305",
+				"standort_id" : 63262,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Fraumünsterstrasse 11",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5401505067, 47.3686940627 ]
+			},
+			"properties" : {
+				"objid" : "306",
+				"standort_id" : 63901,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Bahnhofstrasse 18",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 240lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5388242057, 47.3759173028 ]
+			},
+			"properties" : {
+				"objid" : "307",
+				"standort_id" : 61659,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Schweizergasse 4",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5148816249, 47.3760643282 ]
+			},
+			"properties" : {
+				"objid" : "308",
+				"standort_id" : 20895,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Badenerstrasse 271",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5457673561, 47.3751202893 ]
+			},
+			"properties" : {
+				"objid" : "309",
+				"standort_id" : 22627,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hirschengraben 62",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5460381393, 47.3739404082 ]
+			},
+			"properties" : {
+				"objid" : "310",
+				"standort_id" : 21135,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Chorgasse 20",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5468635348, 47.3729041659 ]
+			},
+			"properties" : {
+				"objid" : "311",
+				"standort_id" : 19064,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Neumarkt 28",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5447552488, 47.3782268334 ]
+			},
+			"properties" : {
+				"objid" : "312",
+				"standort_id" : 21800,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Auf der Mauer 15",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5438727022, 47.3722216659 ]
+			},
+			"properties" : {
+				"objid" : "313",
+				"standort_id" : 61143,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Marktgasse 20",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5442631355, 47.3723085105 ]
+			},
+			"properties" : {
+				"objid" : "314",
+				"standort_id" : 45263,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Rindermarkt 6",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5443777859, 47.3721160861 ]
+			},
+			"properties" : {
+				"objid" : "315",
+				"standort_id" : 13291,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Rindermarkt 6",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5719846753, 47.3608181155 ]
+			},
+			"properties" : {
+				"objid" : "316",
+				"standort_id" : 29938,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Witikonerstrasse 86",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5718263584, 47.3610244006 ]
+			},
+			"properties" : {
+				"objid" : "317",
+				"standort_id" : 29533,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Kapfsteig 33",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5457019474, 47.3717352303 ]
+			},
+			"properties" : {
+				"objid" : "318",
+				"standort_id" : 21117,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Untere Zäune 19",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.546054451, 47.3715260419 ]
+			},
+			"properties" : {
+				"objid" : "319",
+				"standort_id" : 20046,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Untere Zäune 15",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5445035319, 47.375528452 ]
+			},
+			"properties" : {
+				"objid" : "320",
+				"standort_id" : 16314,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Zähringerstrasse 29",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5447868964, 47.3755467874 ]
+			},
+			"properties" : {
+				"objid" : "321",
+				"standort_id" : 21132,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Gräbligasse 12",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5441784747, 47.3755557604 ]
+			},
+			"properties" : {
+				"objid" : "322",
+				"standort_id" : 5377,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Gräbligasse 1",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5439196362, 47.3759346842 ]
+			},
+			"properties" : {
+				"objid" : "323",
+				"standort_id" : 1552,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Limmatquai 136",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5445020624, 47.376351162 ]
+			},
+			"properties" : {
+				"objid" : "324",
+				"standort_id" : 21131,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Zähringerstrasse 47",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.545351552, 47.376899376 ]
+			},
+			"properties" : {
+				"objid" : "325",
+				"standort_id" : 11331,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Leonhardshalde 17",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.578853051, 47.356687528 ]
+			},
+			"properties" : {
+				"objid" : "326",
+				"standort_id" : 36847,
+				"plz" : 8053,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Wehrenbachhalde 20",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5171246252, 47.3741945552 ]
+			},
+			"properties" : {
+				"objid" : "327",
+				"standort_id" : 45790,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Sihlfeldstrasse 28",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5175340404, 47.3752861558 ]
+			},
+			"properties" : {
+				"objid" : "328",
+				"standort_id" : 20897,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Badenerstrasse 219",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.519184305, 47.3740147437 ]
+			},
+			"properties" : {
+				"objid" : "329",
+				"standort_id" : 21614,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 4,
+				"standort_adresse" : "Seebahnstrasse 143",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5182279182, 47.374599553 ]
+			},
+			"properties" : {
+				"objid" : "330",
+				"standort_id" : 20898,
+				"plz" : 8003,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Marienstrasse 16",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5435146004, 47.3776871245 ]
+			},
+			"properties" : {
+				"objid" : "331",
+				"standort_id" : 21834,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Stampfenbachstrasse 7",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5433701203, 47.3740516799 ]
+			},
+			"properties" : {
+				"objid" : "332",
+				"standort_id" : 21121,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Preyergasse 6",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5439170349, 47.3744554573 ]
+			},
+			"properties" : {
+				"objid" : "333",
+				"standort_id" : 21134,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Mühlegasse 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 4.2 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5444840013, 47.3748487857 ]
+			},
+			"properties" : {
+				"objid" : "334",
+				"standort_id" : 21133,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Zähringerstrasse 17",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5432318515, 47.3737182028 ]
+			},
+			"properties" : {
+				"objid" : "335",
+				"standort_id" : 18496,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Köngengasse 2",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5433087226, 47.3734148709 ]
+			},
+			"properties" : {
+				"objid" : "336",
+				"standort_id" : 33350,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Niederdorfstrasse 13",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5434626845, 47.3736877504 ]
+			},
+			"properties" : {
+				"objid" : "337",
+				"standort_id" : 12774,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 3,
+				"standort_adresse" : "Köngengasse 8",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5451155384, 47.373555262 ]
+			},
+			"properties" : {
+				"objid" : "338",
+				"standort_id" : 21143,
+				"plz" : 8001,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Zähringerplatz 11",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 B"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5597435373, 47.372627761 ]
+			},
+			"properties" : {
+				"objid" : "339",
+				"standort_id" : 32586,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Attenhoferstrasse 43",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5497699327, 47.3705170819 ]
+			},
+			"properties" : {
+				"objid" : "340",
+				"standort_id" : 37627,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hottingerstrasse 5",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5440722327, 47.3910818211 ]
+			},
+			"properties" : {
+				"objid" : "341",
+				"standort_id" : 32239,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Zanggerweg 34",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5606555555, 47.3615352055 ]
+			},
+			"properties" : {
+				"objid" : "342",
+				"standort_id" : 31912,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Neumünsterstrasse 34",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5575521653, 47.3709097025 ]
+			},
+			"properties" : {
+				"objid" : "343",
+				"standort_id" : 28564,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Treichlerstrasse 1",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5665868943, 47.3629249338 ]
+			},
+			"properties" : {
+				"objid" : "344",
+				"standort_id" : 29767,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Sempacherstrasse 20",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5653319247, 47.3610185949 ]
+			},
+			"properties" : {
+				"objid" : "345",
+				"standort_id" : 29902,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hedwigstrasse 31",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5635264993, 47.3658961278 ]
+			},
+			"properties" : {
+				"objid" : "346",
+				"standort_id" : 13105,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hölderlinstrasse 4",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5632652712, 47.3604796875 ]
+			},
+			"properties" : {
+				"objid" : "347",
+				"standort_id" : 6175,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Forchstrasse 140",
+				"gefaess_typ" : "Betrieb",
+				"gefaess_art" : "Container 800lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5636849405, 47.3604174905 ]
+			},
+			"properties" : {
+				"objid" : "348",
+				"standort_id" : 7869,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Forchstrasse 142",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5550965043, 47.3704109359 ]
+			},
+			"properties" : {
+				"objid" : "349",
+				"standort_id" : 18193,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Freiestrasse 43",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5532456246, 47.3695589788 ]
+			},
+			"properties" : {
+				"objid" : "350",
+				"standort_id" : 31259,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Hottingerstrasse 38",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5609170214, 47.363642131 ]
+			},
+			"properties" : {
+				"objid" : "351",
+				"standort_id" : 3378,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Jupiterstrasse 10",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5727046735, 47.3580340376 ]
+			},
+			"properties" : {
+				"objid" : "352",
+				"standort_id" : 40581,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Forchstrasse 271",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5729400466, 47.3590733744 ]
+			},
+			"properties" : {
+				"objid" : "353",
+				"standort_id" : 30143,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Mühlehalde 25",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5728915565, 47.359090222 ]
+			},
+			"properties" : {
+				"objid" : "354",
+				"standort_id" : 58307,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Mühlehalde 25",
+				"gefaess_typ" : "Bioabfall",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5554793664, 47.3676841231 ]
+			},
+			"properties" : {
+				"objid" : "355",
+				"standort_id" : 29031,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Neptunstrasse 21",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5494276514, 47.3900683441 ]
+			},
+			"properties" : {
+				"objid" : "356",
+				"standort_id" : 28179,
+				"plz" : 8006,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Frohburgstrasse 66",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5604942739, 47.3669567418 ]
+			},
+			"properties" : {
+				"objid" : "357",
+				"standort_id" : 38585,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 1,
+				"standort_adresse" : "Konkordiastrasse 20",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "UFC 5.0 C"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 8.5605407952, 47.3659147361 ]
+			},
+			"properties" : {
+				"objid" : "358",
+				"standort_id" : 22049,
+				"plz" : 8032,
+				"anzahl_gefaesse" : 2,
+				"standort_adresse" : "Reinacherstrasse 15",
+				"gefaess_typ" : "Haushalt",
+				"gefaess_art" : "Container 770lt"
+			}
+		}
+	]
+}

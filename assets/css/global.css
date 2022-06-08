@@ -271,15 +271,15 @@ th {
 
 html {
     font-size: 100%;
-
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
 body {
     color: black;
     font-family: "PP Mori", sans-serif;
     font-feature-settings: 'ss03' on, 'ss04' on, 'ss05' on;
     font-size: 1.6rem;
-    line-height: 1.6em;
+    line-height: 1.25;
     font-weight: 600;
     font-style: normal;
     letter-spacing: 0;
@@ -420,7 +420,7 @@ h4,
 h5,
 h6 {
     margin-top: 0;
-    line-height: 1.15;
+    line-height: 1;
     font-weight: 600;
     text-rendering: optimizeLegibility;
     letter-spacing: -0.01em;
@@ -431,46 +431,26 @@ h6 {
 
 h1 {
     margin: 0 0 0.5em 0;
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: 700;
     letter-spacing: -0.015em;
-}
-@media (max-width: 600px) {
-    h1 {
-        font-size: 2.8rem;
-    }
 }
 
 h2 {
     margin: 1.5em 0 0.5em 0;
-    font-size: 3.7rem;
+    font-size: 3.1rem;
     font-weight: 700;
-}
-@media (max-width: 600px) {
-    h2 {
-        font-size: 2.3rem;
-    }
 }
 
 h3 {
-    margin: 1.5em 0 0.5em 0;
-    font-size: 2.3rem;
+    margin: 1.5em 0 1em 0;
+    font-size: 1.9rem;
     font-weight: 600;
-}
-@media (max-width: 600px) {
-    h3 {
-        font-size: 1.7rem;
-    }
 }
 
 h4 {
     margin: 1.5em 0 0.5em 0;
-    font-size: 1.4rem;
-}
-@media (max-width: 600px) {
-    h4 {
-        font-size: 1.7rem;
-    }
+    font-size: 1.2rem;
 }
 
 h5 {
@@ -481,4 +461,20 @@ h5 {
 h6 {
     margin: 1.5em 0 0.5em 0;
     font-size: 1.8rem;
+}
+
+@media (max-width: 1550px) {
+html{
+    font-size: 80%;
+}
+}
+
+@media (max-width: 1260px) {
+    html{
+        font-size: 60%;
+    }
+}
+
+@media (max-width: 600px) {
+
 }

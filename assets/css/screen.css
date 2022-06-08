@@ -33,7 +33,7 @@ production stylesheet in assets/built/screen.css
 :root {
 
     /* Colours */
-    --color-green: #449444;
+    --color-green: #007D00;
     --color-yellow: #fecd35;
     --color-red: #f05230;
     --color-darkgrey: #15171A;
@@ -77,16 +77,65 @@ production stylesheet in assets/built/screen.css
 /* Full width page blocks */
 .outer {
     position: relative;
-    padding: 0 4vmin;
+    padding: 2vmin 0 0 0;
+    /*padding: 0 4vmin;*/
 }
 
 /* Centered content container blocks */
-.inner {
+.inner{
     margin: 0 auto;
     width: 100%;
-    max-width: 90vw;
+    max-width: 85vw;
+    padding-left: 4vmin;
+}
+.inner > *{
+    padding-left: 4vmin;
 }
 
+@media (max-width: 1000px) {
+    .inner, .inner > *{
+        padding-left: 0;
+    }
+
+}
+
+    /* H2 Containers */
+.headline{
+    position: relative;
+    display: grid;
+    grid-gap: 4vmin;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.headline h2{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.colored-back{
+    background: var(--ghost-accent-color);
+}
+
+.colored-back *{
+    color: var(--color-wash);
+}
+
+.img-overflow-right{
+    position: absolute;
+    right: 0vw;
+    top: -3vw;
+    z-index: 1000;
+    height: 9vmax;
+}
+
+.img-overflow-left{
+    position: absolute;
+    left: -10vw;
+    top: -5vw;
+
+    z-index: 1000;
+    height: 9vmax;
+}
 
 /* 4. Site Header
 /* ---------------------------------------------------------- */
@@ -113,7 +162,6 @@ production stylesheet in assets/built/screen.css
     display: flex;
     z-index: 100;
     min-height: 200px;
-    max-height: 340px;
     text-align: left;
     flex-direction: row;
     justify-content: space-between;
@@ -126,6 +174,7 @@ production stylesheet in assets/built/screen.css
 
 .site-header-content .inner > h1{
     margin-right: 4vmin;
+    margin-bottom:0;
 }
 
 .site-title {
@@ -135,8 +184,36 @@ production stylesheet in assets/built/screen.css
 }
 
 .swapper{
-    color: var(--ghost-accent-color);
 }
+
+.changing-text {
+    color: var(--ghost-accent-color);
+    line-height: 0.9em;
+    text-transform: capitalize;
+    will-change: width;
+    font-family: "PP Mori", sans-serif;
+    font-feature-settings: 'ss03' on, 'ss04' on, 'ss05' on;
+}
+/*
+#spin {
+    color:var(--color-orange);
+}
+#spin:after {
+    content:"";
+    animation: spin 25s linear infinite;
+}
+@keyframes spin {
+    0% { content:"CO2"; }
+    10% { content:"Biomasse"; }
+    20% { content:"Tonnen"; }
+    30% { content:"Wertstoffe"; }
+    40% { content:"Menschen"; }
+    50% { content: "Biogas"; }
+    60% { content: "Ressourcen"; }
+    70% { content: "Lebensmittel"; }
+    80% { content: "Erde"; }
+    90% { content: "Zukunft"; }
+}*/
 
 .site-logo {
     max-height: 55px;
@@ -154,6 +231,9 @@ production stylesheet in assets/built/screen.css
     .site-description {
         max-width: 80vmin;
         font-size: 1.8rem;
+    }
+    .site-header-content .inner {
+        flex-direction: column;
     }
 }
 
@@ -201,6 +281,17 @@ production stylesheet in assets/built/screen.css
     grid-gap: 2.5vmin;
     grid-template-columns: auto auto 1fr;
     grid-auto-flow: row dense;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 85vw;
+    padding-left: 4vmin;
+}
+
+@media (max-width: 1000px) {
+    .gh-head-inner{
+        padding-left: 0;
+    }
+
 }
 
 
@@ -225,7 +316,7 @@ production stylesheet in assets/built/screen.css
 }
 
 .gh-head-logo img {
-    height: 3.7rem;
+    height: 4rem;
 }
 
 
@@ -255,16 +346,20 @@ production stylesheet in assets/built/screen.css
     line-height: 1em;
 }
 
+.nav-current {
+    background: var(--color-orange)!important;
+}
+
 .gh-head-menu .nav a {
     display: inline-block;
     color: var(--color-wash);
     line-height: 1.25em;
+    margin-top: 0.225rem;
 }
 
 .gh-head-menu .nav a:hover {
     opacity: 1;
 }
-
 
 /* Secondary Navigation
 /* ---------------------------------------------------------- */
@@ -291,7 +386,8 @@ production stylesheet in assets/built/screen.css
 }
 
 .gh-social {
-    margin: 0 1.5vmin 0 0;
+   /* margin: 0 1.5vmin 0 0;*/
+    margin: 0;
 }
 
 .gh-social a {
@@ -319,10 +415,10 @@ production stylesheet in assets/built/screen.css
 
 a.gh-head-button {
     display: block;
-    padding: 0.225rem 1rem 0 1rem;
+    padding: 0.5rem 1rem 0 1rem;
     color: var(--button-text-color, var(--color-black));
     font-weight: 600;
-    background: var(--button-bg-color, var(--color-wash));
+    background: var(--color-green, var(--color-wash));
     border-radius: 0.25rem;
     line-height: 1.25em;
 }
@@ -446,11 +542,10 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
         align-self: center;
         display: flex;
         flex-direction: column;
-        align-items: center;
-        text-align: center;
+        align-items: flex-start;
+        text-align: left;
         margin: 0 0 10vh 0;
-        font-weight: 300;
-        font-size: 3.6rem;
+        font-weight: 600;
         line-height: 1.1em;
     }
     #gh-head .gh-head-menu .nav li {
@@ -462,15 +557,13 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     #gh-head .gh-head-menu .nav {
         display: flex;
         flex-direction: column;
-        align-items: center;
+        align-items: flex-start;
     }
     #gh-head .gh-head-actions {
-        padding: 20px 0;
-        justify-content: center;
+        justify-content: flex-start;
         text-align: left;
     }
     #gh-head .gh-head-actions a {
-        margin: 0 10px;
     }
     /* Hide collapsed content */
     #gh-head .gh-head-actions,
@@ -538,24 +631,21 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     display: grid;
     grid-gap: 4vmin;
     grid-template-columns: 1fr 1fr 1fr;
-    padding: 4vmin 0;
+    padding: 4vmin 0 6vmin 0;
 }
 
-.post-feed.list {
-    row-gap: 6vmin;
-    max-width: 940px;
-    margin: 2vmin auto 0;
+.post-feed > h1,h2,h3 {
+    margin: 0;
+    margin-bottom: 1vmin;
 }
 
-@media (max-width: 1000px) {
-    .post-feed {
-        grid-template-columns: 1fr 1fr;
-    }
+.posts .post-feed{
+    padding: 0;
 }
-@media (max-width: 700px) {
+
+@media (max-width: 950px) {
     .post-feed {
         grid-template-columns: 1fr;
-        grid-gap: 40px;
     }
 }
 
@@ -567,6 +657,9 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     min-height: 220px;
     background-size: cover;
     word-break: break-word;
+}
+.post-card > h3{
+    margin-bottom: 0.4rem;
 }
 
 @media (max-width: 700px) {
@@ -584,10 +677,12 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
 
 .post-card-image {
     width: 100%;
-    height: auto;
-    background: var(--color-lightgrey) no-repeat center center;
+    background: transparent no-repeat center center;
+    object-fit: contain;
+}
 
-    object-fit: cover;
+.post-card .image-container{
+    padding: 0vmin 0 2vmin 0;
 }
 
 .post-card-content-link {
@@ -625,7 +720,13 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     margin: 0 0 0.4em;
     transition: color 0.2s ease-in-out;
     color: var(--color-wash);
-    line-height: 3.7rem;
+    width: 80%;
+}
+
+@media (max-width: 1400px)  {
+    .post-card-title{
+        width: 100%;
+    }
 }
 
 .no-image .post-card-title {
@@ -1711,7 +1812,7 @@ iframe.instagram-media + script + :not([id]) {
     margin: 40px 0 0 0;
     padding: 40px 4vmin 140px;
     color: var(--color-wash);
-    background: color-mod(var(--color-darkgrey) l(-5%));
+    background: color-mod(var(--color-orange) l(-5%));
 }
 
 .site-footer .inner {
@@ -1725,7 +1826,7 @@ iframe.instagram-media + script + :not([id]) {
 .site-footer .copyright a {
     color: var(--color-wash);
     letter-spacing: -0.015em;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .site-footer a {
