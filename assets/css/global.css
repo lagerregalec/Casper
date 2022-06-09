@@ -1,16 +1,16 @@
 /* Reset
 /* ---------------------------------------------------------- */
-/*
+
 @font-face {
     font-family: 'PP Mori';
-    src: url('PPMori-SemiBold.woff') format('truetype');
+    src: url('/assets/fonts/WEB/PPMori-SemiBold.woff') format('truetype');
     font-weight: 600;
 }
 @font-face {
     font-family: 'PP Mori';
-    src: url('PPMori-Regular.woff') format('truetype');
+    src: url('/assets/fonts/WEB/PPMori-Regular.woff') format('truetype');
     font-weight: 400;
-}*/
+}
 
 html,
 body,

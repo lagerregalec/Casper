@@ -30,6 +30,7 @@ production stylesheet in assets/built/screen.css
 /* Import CSS reset and base styles */
 @import "global.css";
 
+
 :root {
 
     /* Colours */
@@ -54,7 +55,7 @@ production stylesheet in assets/built/screen.css
      */
 
     /* Fonts */
-    --font-sans-serif: "PP Mori", sans-serif;
+    --font-sans-serif: 'PP Mori', sans-serif;
     --font-serif: Georgia, Times, serif;
     --font-mono: Menlo, Courier, monospace;
 
@@ -667,7 +668,6 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     flex-direction: column;
     min-height: 220px;
     background-size: cover;
-    word-break: break-word;
 }
 .post-card > h3{
     margin-bottom: 0.4rem;
@@ -996,17 +996,23 @@ make sure this only happens on large viewports / desktop-ish devices.
 .article {
     padding: 4vmin 0;
     word-break: break-word;
-    background-color: var(--color-orange);
+    grid-column-start: 1;
+    grid-column-end: 6;
+    /*background-color: var(--color-orange);*/
 }
 
-.article h1,h2,h3,h4,h5,p,a {
-    color: var(--color-wash)!important;
+.article h1,h2,h3,h4,h5,h6,p{
+   /* color: var(--color-wash);*/
 }
 
 .article-info{
     display: grid;
-    grid-column-end: 5!important;
+    grid-column-start: 2!important;
+    grid-column-end: 4!important;
+    background-color: var(--color-orange);
     border-radius: 0.5rem;
+    padding: 2vmin 0 0 2vmin;
+    margin-bottom: 4vmin;
 }
 
 .article-header {
@@ -1030,8 +1036,9 @@ make sure this only happens on large viewports / desktop-ish devices.
     color: var(--ghost-accent-color);
 }
 
-.article-title {
-    color: color-mod(var(--color-darkgrey) l(-5%));
+
+.article-info .article-title {
+    color: var(--color-wash);
 }
 
 .has-serif-title .article-title {
@@ -1626,7 +1633,6 @@ iframe.instagram-media + script + :not([id]) {
 
 .read-more .post-card-title {
     color: var(--color-wash);
-    opacity: 0.8;
 }
 
 .read-more .post-card-excerpt {
