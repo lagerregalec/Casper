@@ -59,6 +59,9 @@ production stylesheet in assets/built/screen.css
     --font-serif: Georgia, Times, serif;
     --font-mono: Menlo, Courier, monospace;
 
+    /* Breakpoints */
+
+
 }
 
 
@@ -93,7 +96,7 @@ production stylesheet in assets/built/screen.css
     padding-left: 4vmin;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
     .inner, .inner > *{
         padding-left: 0;
     }
@@ -132,7 +135,7 @@ production stylesheet in assets/built/screen.css
 .img-overflow-left{
     position: absolute;
     left: -10vw;
-    top: -5vw;
+    top: -4.5vw;
 
     z-index: 1000;
     height: 9vmax;
@@ -140,6 +143,17 @@ production stylesheet in assets/built/screen.css
 
 .bg-none{
     background: transparent!important;
+}
+
+@media (max-width: 900px){
+    .img-overflow-right {
+        top: -8vw;
+        right: -8vw;
+    }
+    .img-overflow-left{
+        top: -16vw;
+        left: -16vw;
+    }
 }
 
 /* 3. Special Templates*/
@@ -182,6 +196,7 @@ production stylesheet in assets/built/screen.css
 .site-header-content .inner > h1{
     margin-right: 4vmin;
     margin-bottom:0;
+    min-height: 1em;
 }
 
 .site-title {
@@ -299,7 +314,7 @@ production stylesheet in assets/built/screen.css
     padding-left: 4vmin;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
     .gh-head-inner{
         padding-left: 0;
     }
@@ -655,38 +670,46 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     padding: 0;
 }
 
-@media (max-width: 950px) {
+
+
+@media (max-width: 900px) {
     .post-feed {
         grid-template-columns: 1fr;
     }
-}
-
-.post-card {
-    position: relative;
-    flex: 1 1 301px;
-    display: flex;
-    flex-direction: column;
-    min-height: 220px;
-    background-size: cover;
-}
-.post-card > h3{
-    margin-bottom: 0.4rem;
-}
-
-@media (max-width: 900px) {
+    .post-card {
+        position: relative;
+        flex: 1 1 301px;
+        display: flex;
+        flex-direction: column;
+        min-height: 220px;
+        background-size: cover;
+    }
+    .post-card > h3{
+        margin-bottom: 0.4rem;
+    }
     .post-card{
         min-height: auto;
-        height: 25vw;
         background-color: var(--color-orange);
         border-radius: 0.5rem;
     }
     .post-card-image{
-        width: 30%!important;
+        width: 40%;
+    }
+    .post-card-image-arrow{
+        transform: rotate(90deg);
+        margin-top: 1em;
+        width: 4.5vw;
+    }
+    .last-arrow{
+        display: none;
     }
     .post-card-image-link{
         display: flex!important;
         flex-direction: row-reverse;
         align-items: end;
+    }
+    .post-card-image-container{
+        flex-direction: column;
     }
 }
 
@@ -697,10 +720,21 @@ body:not(.gh-head-open) .gh-burger:hover .gh-burger-inner::after {
     border-radius: 3px;
 }
 
+.post-card-image-container{
+    display: flex;
+}
+
 .post-card-image {
-    width: 100%;
+    height: 100%;
     background: transparent no-repeat center center;
     object-fit: contain;
+}
+
+.post-card-image-arrow{
+    width: 3.5vw;
+}
+.last-arrow{
+    visibility: hidden;
 }
 
 .post-card .image-container{
